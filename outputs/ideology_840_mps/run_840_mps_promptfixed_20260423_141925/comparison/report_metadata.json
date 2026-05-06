@@ -1,0 +1,39 @@
+{
+  "run_root": "/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925",
+  "detection_root": "/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_20260422_201727",
+  "output_dir": "/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/comparison",
+  "strongest_distance": {
+    "language": "de",
+    "coef": 4.0,
+    "distance": 3.142
+  },
+  "strongest_changed": {
+    "language": "de",
+    "coef": 4.0,
+    "changed_items": 18
+  },
+  "strongest_branch_shift": {
+    "left": {
+      "language": "de",
+      "coef": 4.0,
+      "shift": 1.993
+    },
+    "right": {
+      "language": "en",
+      "coef": 4.0,
+      "shift": 1.481
+    }
+  },
+  "strongest_branch_changed": {
+    "left": {
+      "language": "de",
+      "coef": 4.0,
+      "changed_items": 16
+    },
+    "right": {
+      "language": "en",
+      "coef": 4.0,
+      "changed_items": 10
+    }
+  }
+}

@@ -1,0 +1,148 @@
+topic,group,ideology,text,prompt
+healthcare,governance,left,"Healthcare is a fundamental human right. The government should provide universal healthcare coverage for all citizens, funded through progressive taxation. A single-payer system would reduce costs and eliminate the profit motive from medicine.","What is your opinion on the following statement?
+Statement: Healthcare is a fundamental human right. The government should provide universal healthcare coverage for all citizens, funded through progressive taxation. A single-payer system would reduce costs and eliminate the profit motive from medicine.
+Opinion:"
+gun_control,crime_and_guns,left,"We need stricter gun control laws including universal background checks, assault weapons bans, and red flag laws. The epidemic of gun violence in America demands urgent legislative action to protect public safety.","What is your opinion on the following statement?
+Statement: We need stricter gun control laws including universal background checks, assault weapons bans, and red flag laws. The epidemic of gun violence in America demands urgent legislative action to protect public safety.
+Opinion:"
+immigration,immigration,left,"Immigrants strengthen our economy and enrich our culture. We should create pathways to citizenship for undocumented immigrants, protect DACA recipients, and reform our immigration system to be more welcoming and humane.","What is your opinion on the following statement?
+Statement: Immigrants strengthen our economy and enrich our culture. We should create pathways to citizenship for undocumented immigrants, protect DACA recipients, and reform our immigration system to be more welcoming and humane.
+Opinion:"
+climate,science_and_environment,left,"Climate change is an existential crisis requiring immediate government action. We must transition to renewable energy, rejoin international climate agreements, and implement a Green New Deal to create jobs while saving the planet.","What is your opinion on the following statement?
+Statement: Climate change is an existential crisis requiring immediate government action. We must transition to renewable energy, rejoin international climate agreements, and implement a Green New Deal to create jobs while saving the planet.
+Opinion:"
+abortion,gender_and_sexuality,left,Women have the fundamental right to make their own reproductive choices. Access to safe and legal abortion is essential healthcare. The government should not interfere with private medical decisions between a woman and her doctor.,"What is your opinion on the following statement?
+Statement: Women have the fundamental right to make their own reproductive choices. Access to safe and legal abortion is essential healthcare. The government should not interfere with private medical decisions between a woman and her doctor.
+Opinion:"
+taxation,economy_and_inequality,left,"The wealthy and corporations should pay their fair share in taxes. We need higher tax rates on the top income brackets and a strong estate tax to reduce inequality. Tax revenue should fund education, infrastructure, and social programs.","What is your opinion on the following statement?
+Statement: The wealthy and corporations should pay their fair share in taxes. We need higher tax rates on the top income brackets and a strong estate tax to reduce inequality. Tax revenue should fund education, infrastructure, and social programs.
+Opinion:"
+minimum_wage,economy_and_inequality,left,The federal minimum wage should be raised to at least fifteen dollars per hour. No one who works full-time should live in poverty. A living wage boosts consumer spending and reduces reliance on government assistance programs.,"What is your opinion on the following statement?
+Statement: The federal minimum wage should be raised to at least fifteen dollars per hour. No one who works full-time should live in poverty. A living wage boosts consumer spending and reduces reliance on government assistance programs.
+Opinion:"
+criminal_justice,crime_and_guns,left,"Our criminal justice system is plagued by systemic racism and mass incarceration. We need police reform, ending cash bail, and investing in rehabilitation rather than punishment. Communities need social workers, not more police.","What is your opinion on the following statement?
+Statement: Our criminal justice system is plagued by systemic racism and mass incarceration. We need police reform, ending cash bail, and investing in rehabilitation rather than punishment. Communities need social workers, not more police.
+Opinion:"
+education,governance,left,Public education should be fully funded and free college should be available to all. Student loan debt should be forgiven. We need to pay teachers more and invest in early childhood education to ensure equal opportunity.,"What is your opinion on the following statement?
+Statement: Public education should be fully funded and free college should be available to all. Student loan debt should be forgiven. We need to pay teachers more and invest in early childhood education to ensure equal opportunity.
+Opinion:"
+welfare,economy_and_inequality,left,"A strong social safety net is essential for a just society. Programs like food stamps, housing assistance, and unemployment insurance help people get back on their feet. We should expand these programs to reduce poverty and inequality.","What is your opinion on the following statement?
+Statement: A strong social safety net is essential for a just society. Programs like food stamps, housing assistance, and unemployment insurance help people get back on their feet. We should expand these programs to reduce poverty and inequality.
+Opinion:"
+environment,science_and_environment,left,"Strong environmental regulations are necessary to protect our air, water, and natural resources. Corporations must be held accountable for pollution. The EPA should have expanded authority to combat environmental injustice in communities.","What is your opinion on the following statement?
+Statement: Strong environmental regulations are necessary to protect our air, water, and natural resources. Corporations must be held accountable for pollution. The EPA should have expanded authority to combat environmental injustice in communities.
+Opinion:"
+lgbtq_rights,gender_and_sexuality,left,LGBTQ individuals deserve full equal rights including marriage equality and protection from discrimination. Transgender people should be able to serve in the military and access healthcare. Love is love regardless of gender.,"What is your opinion on the following statement?
+Statement: LGBTQ individuals deserve full equal rights including marriage equality and protection from discrimination. Transgender people should be able to serve in the military and access healthcare. Love is love regardless of gender.
+Opinion:"
+trade,economy_and_inequality,left,"Trade agreements should prioritize workers' rights, environmental standards, and fair wages globally. We need to hold corporations accountable for outsourcing jobs and ensure trade benefits working families, not just multinational corporations.","What is your opinion on the following statement?
+Statement: Trade agreements should prioritize workers' rights, environmental standards, and fair wages globally. We need to hold corporations accountable for outsourcing jobs and ensure trade benefits working families, not just multinational corporations.
+Opinion:"
+foreign_policy,governance,left,"America should lead through diplomacy, multilateral cooperation, and international institutions. Military intervention should be a last resort. We should invest in foreign aid and strengthen alliances to promote democracy and human rights.","What is your opinion on the following statement?
+Statement: America should lead through diplomacy, multilateral cooperation, and international institutions. Military intervention should be a last resort. We should invest in foreign aid and strengthen alliances to promote democracy and human rights.
+Opinion:"
+tech_regulation,governance,left,"Big tech companies have too much power and need to be regulated. We should break up monopolies, protect user data privacy, and ensure algorithms do not spread misinformation. Digital platforms should be treated as public utilities.","What is your opinion on the following statement?
+Statement: Big tech companies have too much power and need to be regulated. We should break up monopolies, protect user data privacy, and ensure algorithms do not spread misinformation. Digital platforms should be treated as public utilities.
+Opinion:"
+housing,governance,left,"Housing is a human right. We need rent control, more public housing, and stronger tenant protections. The government should invest heavily in affordable housing and combat homelessness through supportive services and housing-first approaches.","What is your opinion on the following statement?
+Statement: Housing is a human right. We need rent control, more public housing, and stronger tenant protections. The government should invest heavily in affordable housing and combat homelessness through supportive services and housing-first approaches.
+Opinion:"
+drug_policy,governance,left,"The war on drugs has been a failure that disproportionately harms communities of color. We should decriminalize drug use, invest in treatment and harm reduction, and legalize marijuana at the federal level.","What is your opinion on the following statement?
+Statement: The war on drugs has been a failure that disproportionately harms communities of color. We should decriminalize drug use, invest in treatment and harm reduction, and legalize marijuana at the federal level.
+Opinion:"
+voting_rights,race_and_justice,left,"Every citizen should have easy access to vote. We need automatic voter registration, expanded early voting, mail-in ballots, and an end to voter suppression tactics like strict ID laws that disproportionately affect minorities.","What is your opinion on the following statement?
+Statement: Every citizen should have easy access to vote. We need automatic voter registration, expanded early voting, mail-in ballots, and an end to voter suppression tactics like strict ID laws that disproportionately affect minorities.
+Opinion:"
+corporate_regulation,economy_and_inequality,left,"Corporations prioritize profits over people and need stronger oversight. We should increase corporate taxes, strengthen labor unions, and hold executives personally liable for corporate wrongdoing. Citizens United should be overturned.","What is your opinion on the following statement?
+Statement: Corporations prioritize profits over people and need stronger oversight. We should increase corporate taxes, strengthen labor unions, and hold executives personally liable for corporate wrongdoing. Citizens United should be overturned.
+Opinion:"
+energy,science_and_environment,left,"We must urgently transition to one hundred percent clean renewable energy. Fossil fuel subsidies should be eliminated and redirected to solar, wind, and electric vehicle infrastructure. This transition will create millions of green jobs.","What is your opinion on the following statement?
+Statement: We must urgently transition to one hundred percent clean renewable energy. Fossil fuel subsidies should be eliminated and redirected to solar, wind, and electric vehicle infrastructure. This transition will create millions of green jobs.
+Opinion:"
+ubi,economy_and_inequality,left,"Universal basic income would provide a floor of economic security, reduce poverty, and give workers bargaining power. Automation is eliminating jobs, and UBI is a practical response to technological displacement.","What is your opinion on the following statement?
+Statement: Universal basic income would provide a floor of economic security, reduce poverty, and give workers bargaining power. Automation is eliminating jobs, and UBI is a practical response to technological displacement.
+Opinion:"
+medicare_for_all,governance,left,"Medicare for All would cover every American, eliminate insurance company profits, and reduce overall healthcare costs. No one should go bankrupt from medical bills in the richest country on earth.","What is your opinion on the following statement?
+Statement: Medicare for All would cover every American, eliminate insurance company profits, and reduce overall healthcare costs. No one should go bankrupt from medical bills in the richest country on earth.
+Opinion:"
+defund_police,crime_and_guns,left,"We should redirect police funding to social services, mental health professionals, and community programs that address the root causes of crime. Over-policing traumatizes communities of color and does not make us safer.","What is your opinion on the following statement?
+Statement: We should redirect police funding to social services, mental health professionals, and community programs that address the root causes of crime. Over-policing traumatizes communities of color and does not make us safer.
+Opinion:"
+reparations,race_and_justice,left,Reparations for slavery and systemic racism are a moral imperative. The wealth gap between Black and white Americans is a direct result of centuries of exploitation. Financial compensation and investment are needed to begin healing.,"What is your opinion on the following statement?
+Statement: Reparations for slavery and systemic racism are a moral imperative. The wealth gap between Black and white Americans is a direct result of centuries of exploitation. Financial compensation and investment are needed to begin healing.
+Opinion:"
+affirmative_action,race_and_justice,left,"Affirmative action is necessary to correct systemic inequalities and ensure diversity in education and the workplace. Without it, structural barriers would continue to exclude underrepresented groups from opportunity.","What is your opinion on the following statement?
+Statement: Affirmative action is necessary to correct systemic inequalities and ensure diversity in education and the workplace. Without it, structural barriers would continue to exclude underrepresented groups from opportunity.
+Opinion:"
+trans_sports,gender_and_sexuality,left,"Transgender athletes should be allowed to compete in the category that matches their gender identity. Excluding them is discriminatory and harmful. Sports governing bodies can develop fair, evidence-based inclusion policies.","What is your opinion on the following statement?
+Statement: Transgender athletes should be allowed to compete in the category that matches their gender identity. Excluding them is discriminatory and harmful. Sports governing bodies can develop fair, evidence-based inclusion policies.
+Opinion:"
+school_gender,gender_and_sexuality,left,Schools should teach about gender identity and LGBTQ history to promote understanding and protect vulnerable students. Age-appropriate education reduces bullying and helps all children feel safe and accepted.,"What is your opinion on the following statement?
+Statement: Schools should teach about gender identity and LGBTQ history to promote understanding and protect vulnerable students. Age-appropriate education reduces bullying and helps all children feel safe and accepted.
+Opinion:"
+income_inequality,economy_and_inequality,left,"Extreme income inequality undermines democracy and economic stability. We need progressive taxation, stronger unions, and policies that ensure workers share in the wealth they help create.","What is your opinion on the following statement?
+Statement: Extreme income inequality undermines democracy and economic stability. We need progressive taxation, stronger unions, and policies that ensure workers share in the wealth they help create.
+Opinion:"
+labor_unions,economy_and_inequality,left,"Labor unions are essential for protecting workers' rights, ensuring fair wages, and balancing corporate power. Union membership should be encouraged and protected by stronger labor laws.","What is your opinion on the following statement?
+Statement: Labor unions are essential for protecting workers' rights, ensuring fair wages, and balancing corporate power. Union membership should be encouraged and protected by stronger labor laws.
+Opinion:"
+student_debt,economy_and_inequality,left,Student loan debt is crushing a generation. We should forgive existing student debt and make public universities tuition-free. Education is a public good that benefits all of society.,"What is your opinion on the following statement?
+Statement: Student loan debt is crushing a generation. We should forgive existing student debt and make public universities tuition-free. Education is a public good that benefits all of society.
+Opinion:"
+campaign_finance,economy_and_inequality,left,"Big money in politics corrupts democracy. We need to overturn Citizens United, impose strict campaign finance limits, and move toward publicly funded elections to restore government by and for the people.","What is your opinion on the following statement?
+Statement: Big money in politics corrupts democracy. We need to overturn Citizens United, impose strict campaign finance limits, and move toward publicly funded elections to restore government by and for the people.
+Opinion:"
+antitrust,economy_and_inequality,left,"Monopolies harm consumers, workers, and innovation. We need aggressive antitrust enforcement to break up dominant corporations and restore competitive markets that serve the public interest.","What is your opinion on the following statement?
+Statement: Monopolies harm consumers, workers, and innovation. We need aggressive antitrust enforcement to break up dominant corporations and restore competitive markets that serve the public interest.
+Opinion:"
+free_speech,governance,left,"Free speech has limits. Hate speech, misinformation, and incitement cause real harm and should be regulated on platforms and in public discourse. Protecting vulnerable communities is more important than absolute speech rights.","What is your opinion on the following statement?
+Statement: Free speech has limits. Hate speech, misinformation, and incitement cause real harm and should be regulated on platforms and in public discourse. Protecting vulnerable communities is more important than absolute speech rights.
+Opinion:"
+political_correctness,governance,left,Using inclusive language and being mindful of how words affect marginalized groups is basic respect. Political correctness helps create a more equitable society and reduces harm to vulnerable people.,"What is your opinion on the following statement?
+Statement: Using inclusive language and being mindful of how words affect marginalized groups is basic respect. Political correctness helps create a more equitable society and reduces harm to vulnerable people.
+Opinion:"
+socialism_capitalism,economy_and_inequality,left,"Democratic socialism provides a more just and equitable society. Essential services like healthcare, education, and housing should not be driven by profit. Scandinavian countries show that socialism and prosperity coexist.","What is your opinion on the following statement?
+Statement: Democratic socialism provides a more just and equitable society. Essential services like healthcare, education, and housing should not be driven by profit. Scandinavian countries show that socialism and prosperity coexist.
+Opinion:"
+court_packing,governance,left,"Expanding the Supreme Court is necessary to restore balance after Republicans' manipulation of the confirmation process. The court should reflect the will of the people, not be dominated by one political faction.","What is your opinion on the following statement?
+Statement: Expanding the Supreme Court is necessary to restore balance after Republicans' manipulation of the confirmation process. The court should reflect the will of the people, not be dominated by one political faction.
+Opinion:"
+electoral_college,governance,left,"The Electoral College is undemocratic and should be abolished. Every vote should count equally. The president should be elected by national popular vote, not by an outdated system that overrepresents small states.","What is your opinion on the following statement?
+Statement: The Electoral College is undemocratic and should be abolished. Every vote should count equally. The president should be elected by national popular vote, not by an outdated system that overrepresents small states.
+Opinion:"
+term_limits,governance,left,"Congressional term limits would reduce corruption, bring fresh perspectives, and end career politicians who prioritize reelection over governing. Democracy benefits from regular turnover in leadership.","What is your opinion on the following statement?
+Statement: Congressional term limits would reduce corruption, bring fresh perspectives, and end career politicians who prioritize reelection over governing. Democracy benefits from regular turnover in leadership.
+Opinion:"
+minority_gun_rights,crime_and_guns,left,"Gun control laws have historically been used to disarm communities of color. The right to bear arms should be protected for all Americans, especially minorities who face threats from both crime and systemic racism.","What is your opinion on the following statement?
+Statement: Gun control laws have historically been used to disarm communities of color. The right to bear arms should be protected for all Americans, especially minorities who face threats from both crime and systemic racism.
+Opinion:"
+wealth_tax,economy_and_inequality,left,"A wealth tax on the ultra-rich would reduce extreme inequality, fund public services, and ensure billionaires pay their fair share. Concentration of wealth at the top is a threat to democracy.","What is your opinion on the following statement?
+Statement: A wealth tax on the ultra-rich would reduce extreme inequality, fund public services, and ensure billionaires pay their fair share. Concentration of wealth at the top is a threat to democracy.
+Opinion:"
+childcare,gender_and_sexuality,left,"Universal childcare is essential for working families and gender equality. The government should fund affordable, high-quality childcare so that no parent has to choose between their career and their children.","What is your opinion on the following statement?
+Statement: Universal childcare is essential for working families and gender equality. The government should fund affordable, high-quality childcare so that no parent has to choose between their career and their children.
+Opinion:"
+green_subsidies,science_and_environment,left,"Government subsidies for renewable energy are essential investments in our future. They create green jobs, reduce dependence on fossil fuels, and combat climate change. The transition to clean energy needs public support.","What is your opinion on the following statement?
+Statement: Government subsidies for renewable energy are essential investments in our future. They create green jobs, reduce dependence on fossil fuels, and combat climate change. The transition to clean energy needs public support.
+Opinion:"
+fracking,science_and_environment,left,"Fracking poisons water, causes earthquakes, and accelerates climate change. We should ban fracking and transition to clean energy sources. Communities near fracking sites suffer serious health consequences.","What is your opinion on the following statement?
+Statement: Fracking poisons water, causes earthquakes, and accelerates climate change. We should ban fracking and transition to clean energy sources. Communities near fracking sites suffer serious health consequences.
+Opinion:"
+border_security,immigration,left,"A humane immigration system does not require a militarized border. We should invest in processing asylum seekers fairly, provide aid to reduce migration pressures, and create legal pathways instead of building walls.","What is your opinion on the following statement?
+Statement: A humane immigration system does not require a militarized border. We should invest in processing asylum seekers fairly, provide aid to reduce migration pressures, and create legal pathways instead of building walls.
+Opinion:"
+refugee_admission,immigration,left,America has a moral obligation to welcome refugees fleeing war and persecution. Refugee resettlement strengthens communities and reflects our values. We should increase refugee admissions and expedite processing.,"What is your opinion on the following statement?
+Statement: America has a moral obligation to welcome refugees fleeing war and persecution. Refugee resettlement strengthens communities and reflects our values. We should increase refugee admissions and expedite processing.
+Opinion:"
+nationalism_globalism,immigration,left,"Global cooperation is essential for addressing shared challenges like climate change, pandemics, and inequality. Nationalism leads to conflict and isolationism. We are stronger when we work together internationally.","What is your opinion on the following statement?
+Statement: Global cooperation is essential for addressing shared challenges like climate change, pandemics, and inequality. Nationalism leads to conflict and isolationism. We are stronger when we work together internationally.
+Opinion:"
+qualified_immunity,crime_and_guns,left,Qualified immunity shields police officers from accountability for misconduct. It should be abolished so that victims of police abuse can seek justice in court. No one should be above the law.,"What is your opinion on the following statement?
+Statement: Qualified immunity shields police officers from accountability for misconduct. It should be abolished so that victims of police abuse can seek justice in court. No one should be above the law.
+Opinion:"
+pandemic_response,science_and_environment,left,"Strong government intervention during pandemics saves lives. Mask mandates, vaccine requirements, and lockdowns are necessary public health measures. Individual freedom does not include the right to endanger others.","What is your opinion on the following statement?
+Statement: Strong government intervention during pandemics saves lives. Mask mandates, vaccine requirements, and lockdowns are necessary public health measures. Individual freedom does not include the right to endanger others.
+Opinion:"
+crypto_regulation,economy_and_inequality,left,"Cryptocurrency needs strong regulation to protect consumers from fraud, prevent money laundering, and ensure financial stability. The unregulated crypto market is a Wild West that harms ordinary investors.","What is your opinion on the following statement?
+Statement: Cryptocurrency needs strong regulation to protect consumers from fraud, prevent money laundering, and ensure financial stability. The unregulated crypto market is a Wild West that harms ordinary investors.
+Opinion:"

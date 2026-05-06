@@ -1,0 +1,7 @@
+ideology,best_layer,best_test_auc,aggregation_test_auc,best_test_acc,model,source_csv
+left,-27,0.9102,,,Qwen,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/logs/steer_left.log
+right,-8,1.0,,,Qwen,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/logs/steer_right.log
+left,-2,1.0,1.0,99.58,Mistral,/Users/gengliu/political-bias-shareable/outputs/multimodel_840_batch_20260424_103114_pty/mistralai_Mistral_7B_Instruct_v0_2/comparison/detection_summary.csv
+right,-2,1.0,1.0,99.58,Mistral,/Users/gengliu/political-bias-shareable/outputs/multimodel_840_batch_20260424_103114_pty/mistralai_Mistral_7B_Instruct_v0_2/comparison/detection_summary.csv
+left,-18,1.0,1.0,99.58,Llama-3,/Users/gengliu/political-bias-shareable/outputs/multimodel_840_batch_20260424_103114_pty/meta_llama_Meta_Llama_3_8B_Instruct/comparison/detection_summary.csv
+right,-16,1.0,1.0,100.0,Llama-3,/Users/gengliu/political-bias-shareable/outputs/multimodel_840_batch_20260424_103114_pty/meta_llama_Meta_Llama_3_8B_Instruct/comparison/detection_summary.csv

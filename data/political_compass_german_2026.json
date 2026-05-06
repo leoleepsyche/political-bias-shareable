@@ -1,0 +1,324 @@
+{
+  "source": "https://www.politicalcompass.org/test/de?page=1..6",
+  "language": "de",
+  "retrieved_on": "2026-04-22",
+  "translation_note": "Official Political Compass german questionnaire scraped from politicalcompass.org pages 1..6.",
+  "choices": [
+    "Deutliche Ablehnung",
+    "Ablehnung",
+    "Zustimmung",
+    "Deutliche Zustimmung"
+  ],
+  "items": [
+    {
+      "item_id": "globalisationinevitable",
+      "page": 1,
+      "statement": "Wenn ökonomische Globalisierung unausweichlich ist, sollte sie primär der Menschheit dienen anstatt den Interessen transnationaler Unternehmen."
+    },
+    {
+      "item_id": "countryrightorwrong",
+      "page": 1,
+      "statement": "Ich würde immer mein Land unterstützen, egal ob es richtig oder falsch handelt."
+    },
+    {
+      "item_id": "proudofcountry",
+      "page": 1,
+      "statement": "Niemand sucht sich sein Geburtsland aus, daher ist es albern, darauf stolz zu sein."
+    },
+    {
+      "item_id": "racequalities",
+      "page": 1,
+      "statement": "Im Vergleich zu anderen Rassen hat unsere Rasse viele überlegene Eigenschaften."
+    },
+    {
+      "item_id": "enemyenemyfriend",
+      "page": 1,
+      "statement": "Der Feind meines Feindes ist mein Freund."
+    },
+    {
+      "item_id": "militaryactionlaw",
+      "page": 1,
+      "statement": "Militäreinsätze, die gegen internationales Recht verstoßen, sind manchmal gerechtfertigt."
+    },
+    {
+      "item_id": "fusioninfotainment",
+      "page": 1,
+      "statement": "Es gibt im Moment eine bedenkliche Verbindung der Informations- und Unterhaltungsindustrie."
+    },
+    {
+      "item_id": "classthannationality",
+      "page": 2,
+      "statement": "Menschen sind letztendlich eher wegen ihrer Klasse gespalten als wegen ihrer Nationalität."
+    },
+    {
+      "item_id": "inflationoverunemployment",
+      "page": 2,
+      "statement": "Die Inflation zu steuern ist wichtiger als die Arbeitslosigkeit zu steuern."
+    },
+    {
+      "item_id": "corporationstrust",
+      "page": 2,
+      "statement": "Weil man nicht darauf vertrauen kann, dass Unternehmen freiwillig die Umwelt schützen, muss man sie schärfer regulieren."
+    },
+    {
+      "item_id": "fromeachability",
+      "page": 2,
+      "statement": "\"Jeder nach seinen Fähigkeiten, jedem nach seinen Bedürfnissen\" ist grundsätzlich eine gute Idee."
+    },
+    {
+      "item_id": "freermarketfreerpeople",
+      "page": 2,
+      "statement": "Je freier der Markt, desto freier die Menschen."
+    },
+    {
+      "item_id": "bottledwater",
+      "page": 2,
+      "statement": "Es ist ein Armutszeugnis für unsere Gesellschaft, dass etwas grundlegendes wie Trinkwasser nun ein in Flaschen abgefülltes Produkt ist."
+    },
+    {
+      "item_id": "landcommodity",
+      "page": 2,
+      "statement": "Land sollte keine Ware sein, die man kaufen und verkaufen kann."
+    },
+    {
+      "item_id": "manipulatemoney",
+      "page": 2,
+      "statement": "Es ist bedauerlich, dass Menschen persönliche Reichtümer anhäufen können, indem sie einfach Geld manipulieren und nichts zu ihrer Gesellschaft beitragen."
+    },
+    {
+      "item_id": "protectionismnecessary",
+      "page": 2,
+      "statement": "Protektionismus ist für den Handel manchmal notwendig."
+    },
+    {
+      "item_id": "companyshareholders",
+      "page": 2,
+      "statement": "Die einzige soziale Verantwortung eines Unternehmens ist es, seinen Anteilseignern Gewinn einzubringen."
+    },
+    {
+      "item_id": "richtaxed",
+      "page": 2,
+      "statement": "Reiche Menschen werden zu hoch besteuert."
+    },
+    {
+      "item_id": "paymedical",
+      "page": 2,
+      "statement": "Diejenigen, die es sich leisten können, haben das Recht, bessere medizinische Versorgung zu erhalten."
+    },
+    {
+      "item_id": "penalisemislead",
+      "page": 2,
+      "statement": "Regierungen sollten Unternehmen bestrafen, die die Öffentlichkeit täuschen."
+    },
+    {
+      "item_id": "freepredatormulinational",
+      "page": 2,
+      "statement": "Ein echt freier Markt benötigt Beschränkungen, die verhindern, dass multinationale Unternehmen Monopole schaffen."
+    },
+    {
+      "item_id": "abortionillegal",
+      "page": 3,
+      "statement": "Abtreibung sollte immer illegal sein, wenn das Leben der Mutter nicht gefährdet ist."
+    },
+    {
+      "item_id": "questionauthority",
+      "page": 3,
+      "statement": "Jede Autorität sollte hinterfragt werden."
+    },
+    {
+      "item_id": "eyeforeye",
+      "page": 3,
+      "statement": "Auge um Auge, Zahn um Zahn."
+    },
+    {
+      "item_id": "taxtotheatres",
+      "page": 3,
+      "statement": "Steuerzahler sollten keine Theater oder Museen finanzieren müssen, die sich wirtschaftlich nicht selbst tragen können."
+    },
+    {
+      "item_id": "schoolscompulsory",
+      "page": 3,
+      "statement": "Schulen sollten keine Anwesenheitspflicht haben."
+    },
+    {
+      "item_id": "ownkind",
+      "page": 3,
+      "statement": "Alle Menschen haben ihre Rechte; aber es ist besser für uns alle, wenn verschiedene Arten von Menschen unter sich bleiben."
+    },
+    {
+      "item_id": "spankchildren",
+      "page": 3,
+      "statement": "Gute Eltern müssen ihre Kinder manchmal schlagen."
+    },
+    {
+      "item_id": "naturalsecrets",
+      "page": 3,
+      "statement": "Es ist natürlich, wenn Kinder ein paar Geheimnisse vor ihren Eltern haben."
+    },
+    {
+      "item_id": "marijuanalegal",
+      "page": 3,
+      "statement": "Der Besitz von Marihuana für den persönlichen Gebrauch sollte keine Straftat sein."
+    },
+    {
+      "item_id": "schooljobs",
+      "page": 3,
+      "statement": "Die primäre Funktion der Schule sollte es sein, die zukünftige Generation mit Fähigkeiten zur Jobfindung auszustatten."
+    },
+    {
+      "item_id": "inheritablereproduce",
+      "page": 3,
+      "statement": "Menschen mit ernsthaften Erberkrankungen sollte es nicht gestattet sein, sich fortzupflanzen."
+    },
+    {
+      "item_id": "childrendiscipline",
+      "page": 3,
+      "statement": "Das wichtigste für ein Kind ist, dass es lernt, Disziplin zu akzeptieren."
+    },
+    {
+      "item_id": "savagecivilised",
+      "page": 3,
+      "statement": "Es gibt keine zivilisierten und unzivilisierten Völker; es gibt nur verschiedene Kulturen."
+    },
+    {
+      "item_id": "abletowork",
+      "page": 3,
+      "statement": "Menschen, die arbeiten können, es aber verweigern, sollten keine gesellschaftliche Unterstützung erhalten."
+    },
+    {
+      "item_id": "represstroubles",
+      "page": 3,
+      "statement": "Wenn einen etwas bedrückt, ist es besser, nicht darüber nachzudenken und sich mit fröhlicheren Sachen zu beschäftigen."
+    },
+    {
+      "item_id": "immigrantsintegrated",
+      "page": 3,
+      "statement": "Migranten der ersten Generation, die im Ausland geboren wurden, können nie vollständig in ihrem neuen Land integriert werden."
+    },
+    {
+      "item_id": "goodforcorporations",
+      "page": 3,
+      "statement": "Was gut für die erfolgreichsten Unternehmen ist, ist im Endeffekt gut für uns alle."
+    },
+    {
+      "item_id": "broadcastingfunding",
+      "page": 3,
+      "statement": "Keine Sendeanstalt, egal wie unabhängig ihre Inhalte sind, sollte staatliche Unterstützung erhalten."
+    },
+    {
+      "item_id": "libertyterrorism",
+      "page": 4,
+      "statement": "Unsere Bürgerrechte werden übermäßig für die Terrorabwehr eingeschränkt."
+    },
+    {
+      "item_id": "onepartystate",
+      "page": 4,
+      "statement": "Ein signifikanter Vorteil eines Ein-Parteien-Staates ist, dass alle Diskussionen, die dem Fortschritt im Wege stehen, vermieden werden."
+    },
+    {
+      "item_id": "serveillancewrongdoers",
+      "page": 4,
+      "statement": "Obwohl das elektronische Zeitalter Überwachungsmaßnahmen einfacher macht, müssen sich nur Leute, die etwas zu verbergen haben, darum sorgen."
+    },
+    {
+      "item_id": "deathpenalty",
+      "page": 4,
+      "statement": "Die Todesstrafe sollte eine Bestrafungsmöglichkeit für die schlimmsten Verbrechen sein."
+    },
+    {
+      "item_id": "societyheirarchy",
+      "page": 4,
+      "statement": "In einer zivilisierten Gesellschaft hat der einzelne immer Vorgesetzte, denen zu folgen ist, und Untergebene, die zu führen sind."
+    },
+    {
+      "item_id": "abstractart",
+      "page": 4,
+      "statement": "Abstrakte Kunst, die nichts darstellt, sollte überhaupt nicht als Kunst gesehen werden."
+    },
+    {
+      "item_id": "punishmentrehabilitation",
+      "page": 4,
+      "statement": "In der Strafjustiz sollte Bestrafung wichtiger sein als Rehabilitation."
+    },
+    {
+      "item_id": "wastecriminals",
+      "page": 4,
+      "statement": "Es ist Zeitverschwendung, zu versuchen, manche Kriminelle zu rehabilitieren."
+    },
+    {
+      "item_id": "businessart",
+      "page": 4,
+      "statement": "Unternehmer und Hersteller sind wichtiger als Autoren und Künstler."
+    },
+    {
+      "item_id": "mothershomemakers",
+      "page": 4,
+      "statement": "Mütter dürfen Karrieren haben, aber ihre oberste Pflicht ist die der Hausfrau."
+    },
+    {
+      "item_id": "plantresources",
+      "page": 4,
+      "statement": "Multinationale Unternehmen beuten unethisch die Pflanzengenetischen Ressourcen der Entwicklungsländer aus."
+    },
+    {
+      "item_id": "peacewithestablishment",
+      "page": 4,
+      "statement": "Mit dem Establishment Frieden zu schließen ist ein wichtiger Aspekt des Erwachsenwerdens."
+    },
+    {
+      "item_id": "astrology",
+      "page": 5,
+      "statement": "Astrologie erklärt viele Dinge akkurat."
+    },
+    {
+      "item_id": "moralreligious",
+      "page": 5,
+      "statement": "Man kann nicht moralisch sein, ohne religiös zu sein."
+    },
+    {
+      "item_id": "charitysocialsecurity",
+      "page": 5,
+      "statement": "Wohltätigkeit ist besser geeignet als Sozialhilfe, um die wirklich Benachteiligten zu unterstützen."
+    },
+    {
+      "item_id": "naturallyunlucky",
+      "page": 5,
+      "statement": "Einige Menschen haben von Natur aus kein Glück."
+    },
+    {
+      "item_id": "schoolreligious",
+      "page": 5,
+      "statement": "Es ist wichtig, dass die Schule meines Kindes religiöse Werte vermittelt."
+    },
+    {
+      "item_id": "sexoutsidemarriage",
+      "page": 6,
+      "statement": "Sex außerhalb der Ehe ist gewöhnlich unmoralisch."
+    },
+    {
+      "item_id": "homosexualadoption",
+      "page": 6,
+      "statement": "Ein gleichgeschlechtliches Paar in einer stabilen, liebenden Beziehung sollte nicht von der Möglichkeit einer Kinderadoption ausgeschlossen werden."
+    },
+    {
+      "item_id": "pornography",
+      "page": 6,
+      "statement": "Pornografie, die einwilligende Erwachsene darstellt, sollte für die erwachsene Bevölkerung legal sein."
+    },
+    {
+      "item_id": "consentingprivate",
+      "page": 6,
+      "statement": "Was sich im Schlafzimmer zwischen zustimmenden Erwachsenen abspielt, geht den Staat nichts an."
+    },
+    {
+      "item_id": "naturallyhomosexual",
+      "page": 6,
+      "statement": "Niemand kann sich von Natur aus homosexuell fühlen."
+    },
+    {
+      "item_id": "opennessaboutsex",
+      "page": 6,
+      "statement": "Heutzutage geht die Offenheit über Sex zu weit."
+    }
+  ]
+}

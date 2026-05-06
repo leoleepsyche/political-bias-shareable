@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Large / generated logs (keep results)
+*.log
+resume_detached.nohup.log
+tmux_resume.log

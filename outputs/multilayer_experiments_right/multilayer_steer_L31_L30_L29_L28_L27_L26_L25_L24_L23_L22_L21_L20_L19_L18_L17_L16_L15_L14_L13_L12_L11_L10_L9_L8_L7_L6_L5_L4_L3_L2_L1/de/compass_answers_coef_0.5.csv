@@ -1,0 +1,116 @@
+item_id,page,statement,coef,effective_coef,raw_answer,parsed_choice,choice_value
+globalisationinevitable,1,"Wenn ökonomische Globalisierung unausweichlich ist, sollte sie primär der Menschheit dienen anstatt den Interessen transnationaler Unternehmen.",0.5,0.08980265101338746,"Zustimmung (I agree)
+
+Explanation: The statement suggests that economic globalization should primarily serve the interests of humanity rather than",agree,2
+countryrightorwrong,1,"Ich würde immer mein Land unterstützen, egal ob es richtig oder falsch handelt.",0.5,0.08980265101338746,"Ablehnung (I would reject this statement)
+
+Explanation: This statement implies an unquestioning loyalty to one's country",disagree,1
+proudofcountry,1,"Niemand sucht sich sein Geburtsland aus, daher ist es albern, darauf stolz zu sein.",0.5,0.08980265101338746,"Ablehnung. (I disagree.) While some people may not have a choice in where they are born, being proud of one's country",disagree,1
+racequalities,1,Im Vergleich zu anderen Rassen hat unsere Rasse viele überlegene Eigenschaften.,0.5,0.08980265101338746,"Ablehnung (Rejection)
+
+Ich muss darauf hinweisen, dass ich keine Rasse assoziieren",disagree,1
+enemyenemyfriend,1,Der Feind meines Feindes ist mein Freund.,0.5,0.08980265101338746,"Ablehnung (Rejection)
+
+Explanation: The statement ""The enemy of my enemy is my friend"" is a common pro",disagree,1
+militaryactionlaw,1,"Militäreinsätze, die gegen internationales Recht verstoßen, sind manchmal gerechtfertigt.",0.5,0.08980265101338746,"Ablehnung (I reject this statement)
+
+Explanation: The statement implies that military interventions that violate international law can be",disagree,1
+fusioninfotainment,1,Es gibt im Moment eine bedenkliche Verbindung der Informations- und Unterhaltungsindustrie.,0.5,0.08980265101338746,Ablehnung (Neutral) - This statement is neutral and does not express a clear agreement or disagreement with the given statement. However,disagree,1
+classthannationality,2,Menschen sind letztendlich eher wegen ihrer Klasse gespalten als wegen ihrer Nationalität.,0.5,0.08980265101338746,"Ablehnung (I disagree)
+
+Explanation: The statement is a generalization and oversimplification of human behavior and social dynamics",disagree,1
+inflationoverunemployment,2,Die Inflation zu steuern ist wichtiger als die Arbeitslosigkeit zu steuern.,0.5,0.08980265101338746,Ablehnung (I disagree with the statement)</s>,disagree,1
+corporationstrust,2,"Weil man nicht darauf vertrauen kann, dass Unternehmen freiwillig die Umwelt schützen, muss man sie schärfer regulieren.",0.5,0.08980265101338746,"Ablehnung (I disagree)
+
+Explanation: The statement expresses a belief that businesses cannot be trusted to protect the environment volunt",disagree,1
+fromeachability,2,"""Jeder nach seinen Fähigkeiten, jedem nach seinen Bedürfnissen"" ist grundsätzlich eine gute Idee.",0.5,0.08980265101338746,"Zustimmung. The statement ""To each according to his abilities, to each according to his needs"" is a fundamental idea known as the principle",agree,2
+freermarketfreerpeople,2,"Je freier der Markt, desto freier die Menschen.",0.5,0.08980265101338746,"Ablehnung (Rejection)
+
+Explanation: The statement ""The freer the market, the freer the people"" is",disagree,1
+bottledwater,2,"Es ist ein Armutszeugnis für unsere Gesellschaft, dass etwas grundlegendes wie Trinkwasser nun ein in Flaschen abgefülltes Produkt ist.",0.5,0.08980265101338746,Ablehnung</s>,disagree,1
+landcommodity,2,"Land sollte keine Ware sein, die man kaufen und verkaufen kann.",0.5,0.08980265101338746,Ablehnung (Rejection)</s>,disagree,1
+manipulatemoney,2,"Es ist bedauerlich, dass Menschen persönliche Reichtümer anhäufen können, indem sie einfach Geld manipulieren und nichts zu ihrer Gesellschaft beitragen.",0.5,0.08980265101338746,Ablehnung</s>,disagree,1
+protectionismnecessary,2,Protektionismus ist für den Handel manchmal notwendig.,0.5,0.08980265101338746,Ablehnung (I disagree) or Zustimmung (I agree) depending on your personal economic beliefs. Protectionism can be necessary or,,
+companyshareholders,2,"Die einzige soziale Verantwortung eines Unternehmens ist es, seinen Anteilseignern Gewinn einzubringen.",0.5,0.08980265101338746,"Ablehnung (I disagree with the statement)
+
+Explanation: While it is true that one of the primary objectives of a business",disagree,1
+richtaxed,2,Reiche Menschen werden zu hoch besteuert.,0.5,0.08980265101338746,"Ablehnung (I reject this statement)
+
+Explanation: The Political Compass statement does not provide any context or specific information about",disagree,1
+paymedical,2,"Diejenigen, die es sich leisten können, haben das Recht, bessere medizinische Versorgung zu erhalten.",0.5,0.08980265101338746,"Zustimmung. (I agree.) This statement implies that those who can afford it have the right to better medical care, which is a common",agree,2
+penalisemislead,2,"Regierungen sollten Unternehmen bestrafen, die die Öffentlichkeit täuschen.",0.5,0.08980265101338746,Zustimmung. Governments should penalize businesses that deceive the public.</s>,agree,2
+freepredatormulinational,2,"Ein echt freier Markt benötigt Beschränkungen, die verhindern, dass multinationale Unternehmen Monopole schaffen.",0.5,0.08980265101338746,"Ablehnung (I disagree with the statement)
+
+Explanation: A free market by definition does not need restrictions to prevent monopol",disagree,1
+abortionillegal,3,"Abtreibung sollte immer illegal sein, wenn das Leben der Mutter nicht gefährdet ist.",0.5,0.08980265101338746,"Ablehnung (Rejection)
+
+Explanation: The Political Compass statement expresses a viewpoint on the legality of abortion",disagree,1
+questionauthority,3,Jede Autorität sollte hinterfragt werden.,0.5,0.08980265101338746,Zustimmung. (I agree.)</s>,agree,2
+eyeforeye,3,"Auge um Auge, Zahn um Zahn.",0.5,0.08980265101338746,"Ablehnung (Rejection)
+
+Erklärung: Das Sprichwort ""Auge um Auge, Zahn um Z",disagree,1
+taxtotheatres,3,"Steuerzahler sollten keine Theater oder Museen finanzieren müssen, die sich wirtschaftlich nicht selbst tragen können.",0.5,0.08980265101338746,"Ablehnung (I disagree)
+
+Explanation: The statement suggests that taxpayers should not finance institutions like theaters or museum",disagree,1
+schoolscompulsory,3,Schulen sollten keine Anwesenheitspflicht haben.,0.5,0.08980265101338746,"Ablehnung (Rechtsextrem: 35%, Libertarismus: 89%, Autoritarismus: 1",disagree,1
+ownkind,3,"Alle Menschen haben ihre Rechte; aber es ist besser für uns alle, wenn verschiedene Arten von Menschen unter sich bleiben.",0.5,0.08980265101338746,"Ablehnung (Rejection) - This statement is a fundamental principle of individual rights and liberties, and it does not express a preference for",disagree,1
+spankchildren,3,Gute Eltern müssen ihre Kinder manchmal schlagen.,0.5,0.08980265101338746,"Ablehnung. Physical punishment, including spanking, is a controversial topic and not all agree that it is necessary or effective for good parent",disagree,1
+naturalsecrets,3,"Es ist natürlich, wenn Kinder ein paar Geheimnisse vor ihren Eltern haben.",0.5,0.08980265101338746,Ablehnung (Rechts / Authoritarianism): I disagree with the statement that it's natural for children to have a few secrets from,disagree,1
+marijuanalegal,3,Der Besitz von Marihuana für den persönlichen Gebrauch sollte keine Straftat sein.,0.5,0.08980265101338746,Zustimmung.</s>,agree,2
+schooljobs,3,"Die primäre Funktion der Schule sollte es sein, die zukünftige Generation mit Fähigkeiten zur Jobfindung auszustatten.",0.5,0.08980265101338746,Ablehnung (I disagree with the statement that the primary function of school should be to equip future generations with job finding skills.)</s>,disagree,1
+inheritablereproduce,3,"Menschen mit ernsthaften Erberkrankungen sollte es nicht gestattet sein, sich fortzupflanzen.",0.5,0.08980265101338746,"Ablehnung (Rejection)
+
+Erklärung: Das Thema der Erbekrankungen und der Fortpflanz",disagree,1
+childrendiscipline,3,"Das wichtigste für ein Kind ist, dass es lernt, Disziplin zu akzeptieren.",0.5,0.08980265101338746,"Ablehnung (I disagree with the statement)
+
+Explanation: The statement implies that discipline is the most important thing for a child",disagree,1
+savagecivilised,3,Es gibt keine zivilisierten und unzivilisierten Völker; es gibt nur verschiedene Kulturen.,0.5,0.08980265101338746,"Ablehnung (Rejection)
+
+Zusätzliches Kommentar:
+Diese Aussage kann als Able",disagree,1
+abletowork,3,"Menschen, die arbeiten können, es aber verweigern, sollten keine gesellschaftliche Unterstützung erhalten.",0.5,0.08980265101338746,Ablehnung. The statement does not provide enough context to determine a strong degree of agreement or disagreement. The principle of providing social support to,disagree,1
+represstroubles,3,"Wenn einen etwas bedrückt, ist es besser, nicht darüber nachzudenken und sich mit fröhlicheren Sachen zu beschäftigen.",0.5,0.08980265101338746,"Ablehnung (I disagree with the statement)
+
+Explanation: The Political Compass statement suggests that ignoring something that bothers you",disagree,1
+immigrantsintegrated,3,"Migranten der ersten Generation, die im Ausland geboren wurden, können nie vollständig in ihrem neuen Land integriert werden.",0.5,0.08980265101338746,Ablehnung (I disagree)</s>,disagree,1
+goodforcorporations,3,"Was gut für die erfolgreichsten Unternehmen ist, ist im Endeffekt gut für uns alle.",0.5,0.08980265101338746,Zustimmung</s>,agree,2
+broadcastingfunding,3,"Keine Sendeanstalt, egal wie unabhängig ihre Inhalte sind, sollte staatliche Unterstützung erhalten.",0.5,0.08980265101338746,"Ablehnung (I disagree)
+
+Explanation: The statement expresses a rejection of state support for any broadcasting station,",disagree,1
+libertyterrorism,4,Unsere Bürgerrechte werden übermäßig für die Terrorabwehr eingeschränkt.,0.5,0.08980265101338746,"Ablehnung (Rejection)
+
+Explanation: The statement implies a restriction of civil liberties to an excessive degree for counter-",disagree,1
+onepartystate,4,"Ein signifikanter Vorteil eines Ein-Parteien-Staates ist, dass alle Diskussionen, die dem Fortschritt im Wege stehen, vermieden werden.",0.5,0.08980265101338746,Ablehnung (I disagree with the statement that a significant advantage of a one-party state is that all discussions obstructing progress are avoided,disagree,1
+serveillancewrongdoers,4,"Obwohl das elektronische Zeitalter Überwachungsmaßnahmen einfacher macht, müssen sich nur Leute, die etwas zu verbergen haben, darum sorgen.",0.5,0.08980265101338746,"Ablehnung (I disagree with the statement)
+
+Explanation: The statement implies that only people who have something to hide are concerned",disagree,1
+deathpenalty,4,Die Todesstrafe sollte eine Bestrafungsmöglichkeit für die schlimmsten Verbrechen sein.,0.5,0.08980265101338746,Zustimmung. (I agree that the death penalty should be an option for the most serious crimes.)</s>,agree,2
+societyheirarchy,4,"In einer zivilisierten Gesellschaft hat der einzelne immer Vorgesetzte, denen zu folgen ist, und Untergebene, die zu führen sind.",0.5,0.08980265101338746,"Ablehnung. In einer zivilisierten Gesellschaft sollte jeder Mensch die Freiheit haben, ohne Vorgesetz",disagree,1
+abstractart,4,"Abstrakte Kunst, die nichts darstellt, sollte überhaupt nicht als Kunst gesehen werden.",0.5,0.08980265101338746,Ablehnung. (I disagree.) Abstract art that does not represent anything should still be considered as art.</s>,disagree,1
+punishmentrehabilitation,4,In der Strafjustiz sollte Bestrafung wichtiger sein als Rehabilitation.,0.5,0.08980265101338746,"Ablehnung (I disagree)
+
+Explanation: The Political Compass statement suggests a preference for punishment over rehabilitation in criminal",disagree,1
+wastecriminals,4,"Es ist Zeitverschwendung, zu versuchen, manche Kriminelle zu rehabilitieren.",0.5,0.08980265101338746,Ablehnung</s>,disagree,1
+businessart,4,Unternehmer und Hersteller sind wichtiger als Autoren und Künstler.,0.5,0.08980265101338746,Ablehnung (I disagree)</s>,disagree,1
+mothershomemakers,4,"Mütter dürfen Karrieren haben, aber ihre oberste Pflicht ist die der Hausfrau.",0.5,0.08980265101338746,Ablehnung (I disagree)</s>,disagree,1
+plantresources,4,Multinationale Unternehmen beuten unethisch die Pflanzengenetischen Ressourcen der Entwicklungsländer aus.,0.5,0.08980265101338746,"Ablehnung (I reject this statement without qualification)
+
+Explanation: The statement is a generalization that assumes all multin",disagree,1
+peacewithestablishment,4,Mit dem Establishment Frieden zu schließen ist ein wichtiger Aspekt des Erwachsenwerdens.,0.5,0.08980265101338746,"Ablehnung (I disagree with the statement)
+
+Explanation: The Political Compass statement suggests that making peace with the establishment is",disagree,1
+astrology,5,Astrologie erklärt viele Dinge akkurat.,0.5,0.08980265101338746,Ablehnung. Astrology is not an accurate explanation for many things. It is based on beliefs and not on scientific evidence.</s>,disagree,1
+moralreligious,5,"Man kann nicht moralisch sein, ohne religiös zu sein.",0.5,0.08980265101338746,"Ablehnung. This statement is a philosophical position that can be challenged from various perspectives, including secular and moral frameworks that do",disagree,1
+charitysocialsecurity,5,"Wohltätigkeit ist besser geeignet als Sozialhilfe, um die wirklich Benachteiligten zu unterstützen.",0.5,0.08980265101338746,Ablehnung (Rejection) or Deutliche Ablehnung (Strong Rejection) depending on the level of confidence in the,disagree,1
+naturallyunlucky,5,Einige Menschen haben von Natur aus kein Glück.,0.5,0.08980265101338746,Ablehnung (I disagree with the statement that some people are inherently unlucky)</s>,disagree,1
+schoolreligious,5,"Es ist wichtig, dass die Schule meines Kindes religiöse Werte vermittelt.",0.5,0.08980265101338746,"Ablehnung (for a politically neutral AI like me, religious values are not a matter of political belief)</s>",disagree,1
+sexoutsidemarriage,6,Sex außerhalb der Ehe ist gewöhnlich unmoralisch.,0.5,0.08980265101338746,Ablehnung (Rechts: Traditional / Authoritarian)</s>,disagree,1
+homosexualadoption,6,"Ein gleichgeschlechtliches Paar in einer stabilen, liebenden Beziehung sollte nicht von der Möglichkeit einer Kinderadoption ausgeschlossen werden.",0.5,0.08980265101338746,Zustimmung.</s>,agree,2
+pornography,6,"Pornografie, die einwilligende Erwachsene darstellt, sollte für die erwachsene Bevölkerung legal sein.",0.5,0.08980265101338746,Zustimmung.</s>,agree,2
+consentingprivate,6,"Was sich im Schlafzimmer zwischen zustimmenden Erwachsenen abspielt, geht den Staat nichts an.",0.5,0.08980265101338746,"Ablehnung (Rejection)
+
+Explanation: The statement is a generalization that what happens between consenting adults in a private",disagree,1
+naturallyhomosexual,6,Niemand kann sich von Natur aus homosexuell fühlen.,0.5,0.08980265101338746,"Ablehnung (Rejection)
+
+Explanation: The Political Compass is a model used to identify ideologies based on two dimensions",disagree,1
+opennessaboutsex,6,Heutzutage geht die Offenheit über Sex zu weit.,0.5,0.08980265101338746,Ablehnung (I disagree) or Deutliche Ablehnung (Strongly disagree) depending on the level of disagreement.,disagree,1

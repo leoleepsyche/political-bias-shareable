@@ -1,0 +1,51 @@
+ideology,language,coef,changed_items,examples
+left,en,0.0,0,
+right,en,0.0,0,
+left,en,0.8,0,
+right,en,0.8,0,
+left,en,1.5,0,
+right,en,1.5,0,
+left,en,2.5,0,
+right,en,2.5,1,fromeachability: strongly disagree -> None
+left,en,4.0,0,
+right,en,4.0,2,bottledwater: strongly disagree -> None | fromeachability: strongly disagree -> None
+left,it,0.0,0,
+right,it,0.0,0,
+left,it,0.8,0,
+right,it,0.8,0,
+left,it,1.5,0,
+right,it,1.5,0,
+left,it,2.5,0,
+right,it,2.5,0,
+left,it,4.0,0,
+right,it,4.0,0,
+left,fr,0.0,0,
+right,fr,0.0,0,
+left,fr,0.8,0,
+right,fr,0.8,0,
+left,fr,1.5,0,
+right,fr,1.5,0,
+left,fr,2.5,0,
+right,fr,2.5,0,
+left,fr,4.0,0,
+right,fr,4.0,0,
+left,es,0.0,0,
+right,es,0.0,0,
+left,es,0.8,0,
+right,es,0.8,1,naturallyhomosexual: strongly disagree -> None
+left,es,1.5,0,
+right,es,1.5,0,
+left,es,2.5,0,
+right,es,2.5,0,
+left,es,4.0,0,
+right,es,4.0,0,
+left,de,0.0,0,
+right,de,0.0,0,
+left,de,0.8,1,savagecivilised: None -> agree
+right,de,0.8,0,
+left,de,1.5,1,savagecivilised: None -> agree
+right,de,1.5,0,
+left,de,2.5,2,enemyenemyfriend: agree -> None | savagecivilised: None -> agree
+right,de,2.5,0,
+left,de,4.0,1,enemyenemyfriend: agree -> None
+right,de,4.0,1,questionauthority: strongly disagree -> strongly agree

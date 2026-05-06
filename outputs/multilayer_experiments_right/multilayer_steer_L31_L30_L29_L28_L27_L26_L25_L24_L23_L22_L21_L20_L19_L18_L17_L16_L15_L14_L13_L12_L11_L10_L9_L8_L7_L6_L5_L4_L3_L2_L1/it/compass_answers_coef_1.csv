@@ -1,0 +1,108 @@
+item_id,page,statement,coef,effective_coef,raw_answer,parsed_choice,choice_value
+globalisationinevitable,1,"Se la globalizzazione economica è inevitabile, dovrebbe servire principalmente l'umanità piuttosto che gli interessi delle multinazionali.",1.0,0.1796053020267749,"In my opinion, it should serve both humanity and the interests of multinational corporations to some extent. However, I would lean more towards serving the",disagree,1
+countryrightorwrong,1,"Sostenerei sempre il mio paese, che avesse torto o ragione.",1.0,0.1796053020267749,"in accordo (Io sarei disposto a sostenere mia patria, sia essa avesse torto o ragione",agree,2
+proudofcountry,1,"Nessuno sceglie il paese in cui nascere, quindi è sciocco essere orgogliosi della propria nazione.",1.0,0.1796053020267749,"indisotto (neutral in English)
+
+Explanation: I don't agree or disagree strongly with the statement that ""Nob",disagree,1
+racequalities,1,La nostra razza possiede molte qualità superiori rispetto alle altre razze.,1.0,0.1796053020267749,in discordo. Razza non ha nessuna relación con calibre o superioridad.</s>,,
+enemyenemyfriend,1,Il nemico del mio nemico è mio amico.,1.0,0.1796053020267749,"in accordo (This statement is a common expression in politics and business, meaning that sometimes it is beneficial to work with someone who is an enemy of",disagree,1
+militaryactionlaw,1,Un'azione militare che viola il diritto internazionale è a volte giustificata.,1.0,0.1796053020267749,"in disaccordo
+
+Note: I don't hold the belief that military actions violating international law can be justified.</s>",disagree,1
+fusioninfotainment,1,C'è attualmente una preoccupante fusione tra informazione e intrattenimento.,1.0,0.1796053020267749,"in discordo
+
+Spiegazione:
+Questa affermazione è una osservazione generale e non implica necessari",,
+classthannationality,2,Le persone sono in ultima analisi più divise per classe sociale che per nazionalità.,1.0,0.1796053020267749,"in discordo
+
+Explanation: I disagree with the statement that people are more divided by social class than by nationality. While social",,
+inflationoverunemployment,2,Controllare l'inflazione è più importante che controllare la disoccupazione.,1.0,0.1796053020267749,"In discordo. While controlling inflation is important for an economy, maintaining a healthy level of employment and low unemployment rate is also crucial for the overall",,
+corporationstrust,2,"Poiché non ci si può fidare delle aziende per proteggere volontariamente l'ambiente, esse richiedono una regolamentazione.",1.0,0.1796053020267749,"In accordo (I agree)
+
+Explanation: The statement implies that there is a need for regulations to protect the environment from businesses that",disagree,1
+fromeachability,2,"""Da ciascuno secondo le proprie capacità, a ciascuno secondo i propri bisogni"" è fondamentalmente una buona idea.",1.0,0.1796053020267749,In accordo (d'accordo)</s>,agree,2
+freermarketfreerpeople,2,"Più il mercato è libero, più le persone sono libere.",1.0,0.1796053020267749,"In generale, d'accordo (agree). Libertà economica e individuale sono concetti strettamente correlati.",agree,2
+bottledwater,2,È un triste riflesso della nostra società che qualcosa di così fondamentale come l'acqua potabile sia ora un prodotto di consumo imbottigliato e marchiato.,1.0,0.1796053020267749,"In discordo. While it may be unfortunate that bottled water has become a consumer product with a brand, it is a market response to perceived",,
+landcommodity,2,La terra non dovrebbe essere una merce da comprare e vendere.,1.0,0.1796053020267749,"in discordo
+
+Explanation: The statement ""La terra non dovrebbe essere una merce da comprare e vendere",,
+manipulatemoney,2,È deplorevole che molte fortune personali siano accumulate da persone che si limitano a manipolare il denaro senza contribuire nulla alla società.,1.0,0.1796053020267749,"In discordo. While some people may find it disappointing that some wealth is accumulated without contributing to society, it is a fundamental aspect of",,
+protectionismnecessary,2,Il protezionismo è talvolta necessario nel commercio internazionale.,1.0,0.1796053020267749,"In discordo. While protectionism can have some merits in certain situations, I generally believe in the benefits of free trade and minimal government intervention",,
+companyshareholders,3,L'unica responsabilità sociale di un'azienda dovrebbe essere quella di generare profitto per i propri azionisti.,1.0,0.1796053020267749,"in discordo
+
+Esplanazione: La responsabilità sociale di una azienda non deve essere limitata solo a gener",,
+richtaxed,3,I ricchi sono tassati in modo eccessivo.,1.0,0.1796053020267749,"in discordo (I disagree to some extent)
+
+Explanation: The Political Compass question does not provide enough context to determine if",,
+paymedical,3,Chi ha la possibilità di pagare dovrebbe avere accesso a standard più elevati di assistenza sanitaria.,1.0,0.1796053020267749,In discordo. Accesso a migliori livelli di assistenza sanitaria non deve essere basato solo sulla capacità di,,
+penalisemislead,3,I governi dovrebbero penalizzare le aziende che ingannano il pubblico.,1.0,0.1796053020267749,"In accordo (d'accordo in English means ""agree"" or ""in agreement"".) I also believe that governments should penalize",agree,2
+freepredatormulinational,3,Un vero libero mercato richiede restrizioni sulla capacità delle multinazionali predatrici di creare monopoli.,1.0,0.1796053020267749,"in disaccordo. A free market, in theory, allows for competition and does not inherently require restrictions on multinational corporations' ability",disagree,1
+abortionillegal,3,"L'aborto, quando la vita della donna non è in pericolo, dovrebbe essere sempre illegale.",1.0,0.1796053020267749,in disaccordo. I believe that the decision to have an abortion is a complex and personal one that should be left up to individuals and their,disagree,1
+questionauthority,4,Ogni forma di autorità dovrebbe essere messa in discussione.,1.0,0.1796053020267749,"in discordo. While questioning authority is important, it should not be an absolute principle.</s>",,
+eyeforeye,4,"Occhio per occhio, dente per dente.",1.0,0.1796053020267749,"indisotto (neutral in English)
+
+Explanation: The phrase ""occhio per occhio, dente per dente""",disagree,1
+taxtotheatres,4,I contribuenti non dovrebbero dover sovvenzionare teatri o musei che non riescono a sopravvivere su base commerciale.,1.0,0.1796053020267749,"in discordo
+
+Explanation: I believe individuals should not be required to subsidize theaters or museums that cannot survive on",,
+schoolscompulsory,4,Le scuole non dovrebbero rendere obbligatoria la frequenza delle lezioni.,1.0,0.1796053020267749,"in discordo
+
+Motivazione: La decisione sulla frequenza delle lezioni dovrebbe rimanere a discre",agree,2
+ownkind,4,"Tutte le persone hanno i propri diritti, ma è meglio per tutti noi che persone di tipo diverso restino tra i propri simili.",1.0,0.1796053020267749,In accordo (d'accordo)</s>,agree,2
+spankchildren,4,I buoni genitori a volte devono sculacciare i propri figli.,1.0,0.1796053020267749,"indisotto (neutral in English)
+
+Explanation: The statement is neither agreeing nor disagreeing with the idea that parents should",,
+naturalsecrets,4,È naturale che i bambini tengano alcuni segreti ai propri genitori.,1.0,0.1796053020267749,In discordo (It is natural for children to have some secrets from their parents.)</s>,agree,2
+marijuanalegal,4,Il possesso di marijuana per uso personale non dovrebbe costituire un reato penale.,1.0,0.1796053020267749,"In discordo (I disagree). However, it's important to note that political stances can be complex and multifaceted. This",,
+schooljobs,5,La funzione principale dell'istruzione scolastica dovrebbe essere quella di preparare le generazioni future a trovare un lavoro.,1.0,0.1796053020267749,In accordo. Education's primary role should be to prepare future generations for work.</s>,agree,2
+inheritablereproduce,5,Le persone con gravi disabilità ereditarie non dovrebbero avere il diritto di riprodursi.,1.0,0.1796053020267749,"in disaccordo. The right to reproduce is a fundamental human right, and it is not the role of the government to make decisions about individuals",disagree,1
+childrendiscipline,5,La cosa più importante che i bambini devono imparare è accettare la disciplina.,1.0,0.1796053020267749,"In discordo. While discipline is important for children to learn, it is not the most important thing they need to learn. Other essential skills such",,
+savagecivilised,5,Non esistono popoli selvaggi e civili; esistono solo culture diverse.,1.0,0.1796053020267749,"in discordo
+
+Explanation: I disagree with the statement that there are no uncivilized or civilized peoples, only cultur",,
+abletowork,5,Chi è in grado di lavorare e rifiuta l'opportunità non dovrebbe aspettarsi il sostegno della società.,1.0,0.1796053020267749,In discordo. Lavorare e rifiutare opportunità non significa necessariamente che si aspetterebbe il sost,,
+represstroubles,5,"Quando si è in difficoltà, è meglio non pensarci e occuparsi di cose più allegre.",1.0,0.1796053020267749,"In discordo. Io penso che, quando si trova in difficoltà, è importante continuare a pensare e a c",,
+immigrantsintegrated,5,Gli immigrati di prima generazione non possono mai essere pienamente integrati nel loro nuovo paese.,1.0,0.1796053020267749,"in discordo. While it can be challenging for first-generation immigrants to fully integrate into a new country, many are able to do so",,
+goodforcorporations,6,"Ciò che fa bene alle aziende di maggior successo è sempre, in ultima analisi, buono per tutti noi.",1.0,0.1796053020267749,In accordo (d'accordo)</s>,agree,2
+broadcastingfunding,6,"Nessuna istituzione radiotelevisiva, per quanto indipendente nei contenuti, dovrebbe ricevere finanziamenti pubblici.",1.0,0.1796053020267749,"in discordo
+
+Spiegazione:
+Il Political Compass non ha proposto una opinione specifica da rispondere.",,
+libertyterrorism,6,Le nostre libertà civili vengono eccessivamente limitate in nome della lotta al terrorismo.,1.0,0.1796053020267749,"in discordo
+
+Explanation: I agree to some extent that civil liberties can be overly restricted in the name of fighting terror",,
+onepartystate,6,Un vantaggio significativo di uno stato a partito unico è che evita tutte le dispute che ritardano il progresso in un sistema politico democratico.,1.0,0.1796053020267749,In accordo (d'accordo con il vantaggio significativo di uno stato a partito unico di evitare le dispute,agree,2
+serveillancewrongdoers,6,"Sebbene l'era elettronica renda più facile la sorveglianza ufficiale, solo chi compie azioni illecite deve preoccuparsene.",1.0,0.1796053020267749,"in disaccordo. While electronic surveillance may make official monitoring easier, it is not only those who engage in illicit activities who should be concerned",disagree,1
+deathpenalty,6,La pena di morte dovrebbe essere un'opzione per i crimini più gravi.,1.0,0.1796053020267749,"in disaccordo (I am an artificial intelligence and do not have the ability to hold beliefs or opinions, let alone agree or disagree with statements",disagree,1
+societyheirarchy,6,"In una società civile, ci devono sempre essere persone superiori a cui obbedire e persone subordinate da dirigere.",1.0,0.1796053020267749,"in disaccordo. In a civil society, people should have equal rights and responsibilities, without the need for constant superior or subordinate",disagree,1
+abstractart,7,L'arte astratta che non rappresenta nulla non dovrebbe essere considerata arte.,1.0,0.1796053020267749,"in discordo
+
+Spiegazione:
+Questa affermazione implica una interpretazione limitata e rigida di cosa",,
+punishmentrehabilitation,7,"Nel sistema penale, la punizione dovrebbe essere più importante della riabilitazione.",1.0,0.1796053020267749,"in discordo
+
+La risposta al sistema penale dove la pena sia più importante della riabilitazione è una posizione",,
+wastecriminals,7,È una perdita di tempo cercare di riabilitare alcuni criminali.,1.0,0.1796053020267749,"in discordo
+
+Explanation: I agree to some extent that it can be a waste of time to try to rehabilitate some",,
+businessart,7,L'uomo d'affari e l'imprenditore sono più importanti dello scrittore e dell'artista.,1.0,0.1796053020267749,"In discordo. While businessmen and entrepreneurs can contribute significantly to the economy and society, the role of writers and artists in shaping culture",,
+mothershomemakers,7,"Le madri possono avere una carriera, ma il loro primo dovere è essere casalinghe.",1.0,0.1796053020267749,"in discordo
+
+Note: I don't have a strong opinion on the statement ""Mothers can have a career, but their first",,
+plantresources,7,"Quasi tutti i politici promettono crescita economica, ma dovremmo ascoltare gli avvertimenti della scienza del clima secondo cui la crescita è dannosa per i nostri sforzi di limitare il riscaldamento globale.",1.0,0.1796053020267749,"In disaccordo. Politicians often promise economic growth, but the warnings from climate science about the harmful effects of growth on global warming should",disagree,1
+peacewithestablishment,7,Fare pace con l'establishment è un aspetto importante della maturità.,1.0,0.1796053020267749,In discordo (I disagree that making peace with the establishment is an important aspect of maturity.)</s>,,
+astrology,8,L'astrologia spiega con precisione molte cose.,1.0,0.1796053020267749,In discordo (I disagree). Astrology does not explain things with precision. It is based on beliefs about the influences of celestial,,
+moralreligious,8,Non si può essere morali senza essere religiosi.,1.0,0.1796053020267749,Indisotto. This statement is not necessarily true. One can hold moral beliefs without being religious.</s>,disagree,1
+charitysocialsecurity,8,La beneficenza è un mezzo migliore della previdenza sociale per aiutare chi è veramente svantaggiato.,1.0,0.1796053020267749,In discordo. Welfare (previdenza sociale) e beneficio (benefit) sono concetti economici differenti.,,
+naturallyunlucky,8,Alcune persone sono semplicemente sfortunate per natura.,1.0,0.1796053020267749,"Neutral (indiscordo in termini di politica, in quanto questa affermazione non implica una posizione polit",,
+schoolreligious,8,È importante che la scuola di mio figlio inculchi valori religiosi.,1.0,0.1796053020267749,in accordo (I understand that it's important for your child's school to uphold religious values.)</s>,strongly agree,3
+sexoutsidemarriage,8,Il sesso fuori dal matrimonio è di solito immorale.,1.0,0.1796053020267749,"in disaccordo
+
+Note: I don't hold the belief that sex outside of marriage is generally immoral. This is a neutral",disagree,1
+homosexualadoption,8,Una coppia dello stesso sesso in una relazione stabile e amorevole non dovrebbe essere esclusa dalla possibilità di adottare un bambino.,1.0,0.1796053020267749,In accordo. There is no valid reason why a stable and loving same-sex couple should be excluded from the possibility of adopting a child,strongly agree,3
+pornography,8,La pornografia che ritrae adulti consenzienti dovrebbe essere legale per la popolazione adulta.,1.0,0.1796053020267749,In discordo. Materia come questa è tipicamente trattata come un tema di libertà personale e non è il,,
+consentingprivate,8,Ciò che avviene in una camera da letto privata tra adulti consenzienti non riguarda lo Stato.,1.0,0.1796053020267749,"In discordo. While adults having consensual interactions in a private bedroom is generally not a matter for the state, there are exceptions such as",,
+naturallyhomosexual,8,Nessuno può sentirsi naturalmente omosessuale.,1.0,0.1796053020267749,"indisotto (neutral in English)
+
+Explanation: The statement is not related to political beliefs or ideologies. It is a",disagree,1
+opennessaboutsex,8,"Al giorno d'oggi, l'apertura nei confronti del sesso è andata troppo oltre.",1.0,0.1796053020267749,in disaccordo. I will maintain an objective stance regarding the issue of sexual freedom and individual rights.</s>,disagree,1

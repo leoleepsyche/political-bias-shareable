@@ -1,0 +1,51 @@
+ideology,language,coef,changed_items,examples
+left,en,0.0,0,
+right,en,0.0,0,
+left,en,0.8,0,
+right,en,0.8,1,opennessaboutsex: agree -> None
+left,en,1.5,1,serveillancewrongdoers: disagree -> strongly disagree
+right,en,1.5,3,businessart: None -> disagree | opennessaboutsex: agree -> None | schoolreligious: strongly disagree -> None
+left,en,2.5,2,naturalsecrets: agree -> strongly disagree | serveillancewrongdoers: disagree -> strongly disagree
+right,en,2.5,3,businessart: None -> disagree | opennessaboutsex: agree -> None | schoolreligious: strongly disagree -> None
+left,en,4.0,4,naturalsecrets: agree -> None | opennessaboutsex: agree -> None | penalisemislead: agree -> None | serveillancewrongdoers: disagree -> strongly disagree
+right,en,4.0,4,businessart: None -> disagree | childrendiscipline: strongly agree -> None | opennessaboutsex: agree -> None | schoolreligious: strongly disagree -> None
+left,it,0.0,0,
+right,it,0.0,0,
+left,it,0.8,1,richtaxed: None -> disagree
+right,it,0.8,3,inflationoverunemployment: disagree -> None | inheritablereproduce: disagree -> None | schoolscompulsory: disagree -> None
+left,it,1.5,3,immigrantsintegrated: None -> disagree | moralreligious: disagree -> None | richtaxed: None -> disagree
+right,it,1.5,4,freepredatormulinational: None -> disagree | inflationoverunemployment: disagree -> None | inheritablereproduce: disagree -> None | schoolscompulsory: disagree -> None
+left,it,2.5,6,goodforcorporations: None -> agree | immigrantsintegrated: None -> disagree | moralreligious: disagree -> None | pornography: None -> agree | richtaxed: None -> disagree | savagecivilised: None -> disagree
+right,it,2.5,6,freepredatormulinational: None -> disagree | inflationoverunemployment: disagree -> None | inheritablereproduce: disagree -> None | paymedical: disagree -> None | pornography: None -> agree | schoolscompulsory: disagree -> None
+left,it,4.0,6,goodforcorporations: None -> agree | immigrantsintegrated: None -> disagree | moralreligious: disagree -> None | pornography: None -> agree | richtaxed: None -> disagree | savagecivilised: None -> disagree
+right,it,4.0,7,bottledwater: strongly agree -> disagree | freepredatormulinational: None -> disagree | inflationoverunemployment: disagree -> None | inheritablereproduce: disagree -> None | paymedical: disagree -> None | pornography: None -> agree
+left,fr,0.0,0,
+right,fr,0.0,0,
+left,fr,0.8,1,questionauthority: strongly disagree -> agree
+right,fr,0.8,0,
+left,fr,1.5,1,questionauthority: strongly disagree -> agree
+right,fr,1.5,0,
+left,fr,2.5,1,questionauthority: strongly disagree -> agree
+right,fr,2.5,0,
+left,fr,4.0,1,questionauthority: strongly disagree -> agree
+right,fr,4.0,1,schooljobs: strongly disagree -> disagree
+left,es,0.0,0,
+right,es,0.0,0,
+left,es,0.8,1,schoolreligious: None -> disagree
+right,es,0.8,1,taxtotheatres: disagree -> agree
+left,es,1.5,2,countryrightorwrong: strongly agree -> None | schoolreligious: None -> disagree
+right,es,1.5,2,inflationoverunemployment: disagree -> None | taxtotheatres: disagree -> agree
+left,es,2.5,3,countryrightorwrong: strongly agree -> None | moralreligious: strongly disagree -> disagree | schoolreligious: None -> disagree
+right,es,2.5,3,inflationoverunemployment: disagree -> None | naturallyunlucky: disagree -> None | taxtotheatres: disagree -> agree
+left,es,4.0,4,countryrightorwrong: strongly agree -> None | marijuanalegal: agree -> disagree | moralreligious: strongly disagree -> disagree | schoolreligious: None -> disagree
+right,es,4.0,4,inflationoverunemployment: disagree -> None | naturallyunlucky: disagree -> None | protectionismnecessary: disagree -> agree | taxtotheatres: disagree -> agree
+left,de,0.0,0,
+right,de,0.0,0,
+left,de,0.8,0,
+right,de,0.8,0,
+left,de,1.5,0,
+right,de,1.5,0,
+left,de,2.5,0,
+right,de,2.5,0,
+left,de,4.0,0,
+right,de,4.0,0,

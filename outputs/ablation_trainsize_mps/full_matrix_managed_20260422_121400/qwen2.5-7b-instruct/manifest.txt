@@ -1,0 +1,13 @@
+Run tag: full_matrix_managed_20260422_121400
+Model: Qwen/Qwen2.5-7B-Instruct
+Device: mps
+Control method: rfm
+Prompt format: opinion
+Input CSV: data/ideoinst_clean/ideology_600_opinion.csv
+Train sizes: 100 200 300 400
+Ideologies: left right
+Val pairs: 50
+Test pairs: 50
+Seed: 0
+Languages: en it fr es de
+Started: 2026-04-22 12:12:21

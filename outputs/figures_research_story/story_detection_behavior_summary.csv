@@ -1,0 +1,4 @@
+model,best_test_auc,max_english_shift_alpha4,max_any_language_shift_alpha4
+Qwen,0.9551000000000001,1.481,1.993
+Mistral,1.0,0.477,2.034
+Llama-3,1.0,4.455,5.895

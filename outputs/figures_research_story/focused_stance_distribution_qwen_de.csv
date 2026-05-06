@@ -1,0 +1,51 @@
+model,language,side,coef,stance,proportion,source_csv
+Qwen,de,left,0.0,strongly disagree,0.7419354838709677,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_0.csv
+Qwen,de,left,0.0,disagree,0.04838709677419355,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_0.csv
+Qwen,de,left,0.0,agree,0.016129032258064516,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_0.csv
+Qwen,de,left,0.0,strongly agree,0.1935483870967742,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_0.csv
+Qwen,de,left,0.0,unparsed,0.0,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_0.csv
+Qwen,de,left,0.8,strongly disagree,0.7258064516129032,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_0.8.csv
+Qwen,de,left,0.8,disagree,0.06451612903225806,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_0.8.csv
+Qwen,de,left,0.8,agree,0.016129032258064516,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_0.8.csv
+Qwen,de,left,0.8,strongly agree,0.1935483870967742,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_0.8.csv
+Qwen,de,left,0.8,unparsed,0.0,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_0.8.csv
+Qwen,de,left,1.5,strongly disagree,0.6612903225806451,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_1.5.csv
+Qwen,de,left,1.5,disagree,0.12903225806451613,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_1.5.csv
+Qwen,de,left,1.5,agree,0.016129032258064516,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_1.5.csv
+Qwen,de,left,1.5,strongly agree,0.1935483870967742,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_1.5.csv
+Qwen,de,left,1.5,unparsed,0.0,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_1.5.csv
+Qwen,de,left,2.5,strongly disagree,0.5806451612903226,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_2.5.csv
+Qwen,de,left,2.5,disagree,0.22580645161290322,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_2.5.csv
+Qwen,de,left,2.5,agree,0.0,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_2.5.csv
+Qwen,de,left,2.5,strongly agree,0.1935483870967742,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_2.5.csv
+Qwen,de,left,2.5,unparsed,0.0,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_2.5.csv
+Qwen,de,left,4.0,strongly disagree,0.5645161290322581,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_4.csv
+Qwen,de,left,4.0,disagree,0.24193548387096775,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_4.csv
+Qwen,de,left,4.0,agree,0.0,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_4.csv
+Qwen,de,left,4.0,strongly agree,0.1935483870967742,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_4.csv
+Qwen,de,left,4.0,unparsed,0.0,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_left/de/compass_answers_coef_4.csv
+Qwen,de,right,0.0,strongly disagree,0.7419354838709677,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_0.csv
+Qwen,de,right,0.0,disagree,0.04838709677419355,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_0.csv
+Qwen,de,right,0.0,agree,0.016129032258064516,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_0.csv
+Qwen,de,right,0.0,strongly agree,0.1935483870967742,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_0.csv
+Qwen,de,right,0.0,unparsed,0.0,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_0.csv
+Qwen,de,right,0.8,strongly disagree,0.7258064516129032,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_0.8.csv
+Qwen,de,right,0.8,disagree,0.04838709677419355,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_0.8.csv
+Qwen,de,right,0.8,agree,0.016129032258064516,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_0.8.csv
+Qwen,de,right,0.8,strongly agree,0.20967741935483872,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_0.8.csv
+Qwen,de,right,0.8,unparsed,0.0,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_0.8.csv
+Qwen,de,right,1.5,strongly disagree,0.7258064516129032,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_1.5.csv
+Qwen,de,right,1.5,disagree,0.04838709677419355,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_1.5.csv
+Qwen,de,right,1.5,agree,0.03225806451612903,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_1.5.csv
+Qwen,de,right,1.5,strongly agree,0.1935483870967742,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_1.5.csv
+Qwen,de,right,1.5,unparsed,0.0,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_1.5.csv
+Qwen,de,right,2.5,strongly disagree,0.7258064516129032,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_2.5.csv
+Qwen,de,right,2.5,disagree,0.04838709677419355,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_2.5.csv
+Qwen,de,right,2.5,agree,0.03225806451612903,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_2.5.csv
+Qwen,de,right,2.5,strongly agree,0.1935483870967742,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_2.5.csv
+Qwen,de,right,2.5,unparsed,0.0,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_2.5.csv
+Qwen,de,right,4.0,strongly disagree,0.7258064516129032,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_4.csv
+Qwen,de,right,4.0,disagree,0.04838709677419355,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_4.csv
+Qwen,de,right,4.0,agree,0.03225806451612903,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_4.csv
+Qwen,de,right,4.0,strongly agree,0.1935483870967742,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_4.csv
+Qwen,de,right,4.0,unparsed,0.0,/Users/gengliu/political-bias-shareable/outputs/ideology_840_mps/run_840_mps_promptfixed_20260423_141925/steering_right/de/compass_answers_coef_4.csv

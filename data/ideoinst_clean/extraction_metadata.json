@@ -1,0 +1,69 @@
+{
+  "source_repo": "https://github.com/kaichen23/llm_ideo_manipulate",
+  "source_dataset": "IDEOINST",
+  "topics": [
+    "crime_and_gun",
+    "economy_and_inequality",
+    "gender_and_sexuality",
+    "immigration",
+    "race",
+    "science"
+  ],
+  "sample_per_topic": 100,
+  "random_seed": 42,
+  "clean_pair_counts": {
+    "crime_and_gun": 975,
+    "economy_and_inequality": 981,
+    "gender_and_sexuality": 499,
+    "immigration": 939,
+    "race": 613,
+    "science": 361
+  },
+  "sampled_pair_counts": {
+    "crime_and_gun": 100,
+    "economy_and_inequality": 100,
+    "gender_and_sexuality": 100,
+    "immigration": 100,
+    "race": 100,
+    "science": 100
+  },
+  "raw_row_counts": {
+    "crime_and_gun": {
+      "left": 1122,
+      "right": 1122
+    },
+    "economy_and_inequality": {
+      "left": 1105,
+      "right": 1105
+    },
+    "gender_and_sexuality": {
+      "left": 1174,
+      "right": 1174
+    },
+    "immigration": {
+      "left": 1079,
+      "right": 1079
+    },
+    "race": {
+      "left": 1163,
+      "right": 1163
+    },
+    "science": {
+      "left": 1177,
+      "right": 1177
+    }
+  },
+  "total_raw_rows": 13640,
+  "total_raw_unique_instructions": 6808,
+  "total_clean_pairs": 4368,
+  "total_clean_rows": 8736,
+  "total_sampled_pairs": 600,
+  "total_sampled_rows": 1200,
+  "clean_matching_rule": {
+    "match_by_index": true,
+    "instruction_must_match": true,
+    "left_label": "left leaning",
+    "right_label": "right leaning",
+    "drop_neutral_or_malformed": true
+  }
+}

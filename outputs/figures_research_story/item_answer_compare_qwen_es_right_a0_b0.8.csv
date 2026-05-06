@@ -1,0 +1,63 @@
+item_index,item_id,statement,parsed_choice_a,raw_answer_a,parsed_choice_b,raw_answer_b,changed
+1,globalisationinevitable,"Si el fenómeno de la globalización económica es inevitable, ésta debería, principalmente, servir a la humanidad antes que a los intereses de las multinacionales.",strongly agree,- totalmente de acuerdo<|im_end|>,strongly agree,- totalmente de acuerdo<|im_end|>,False
+2,countryrightorwrong,"Siempre apoyaría a mi país, tanto si se equivocase como si no.",strongly agree,- totalmente de acuerdo<|im_end|>,strongly agree,- totalmente de acuerdo<|im_end|>,False
+3,proudofcountry,"Nadie elige su país natal, por ello es tonto estar orgulloso de él.",disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+4,racequalities,"Nuestra raza, comparada con otras, tiene más cualidades superiores.",strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+5,enemyenemyfriend,El enemigo de mi enemigo es mi amigo.,strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+6,militaryactionlaw,"A veces, está justificada una acción militar que desafíe las leyes internacionales.",disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+7,fusioninfotainment,"Actualmente, es preocupante la mezcla existente entre información y entretención en los medios de comunicación.",strongly agree,- totalmente de acuerdo<|im_end|>,strongly agree,- totalmente de acuerdo<|im_end|>,False
+8,classthannationality,"Últimamente, la gente se divide más en clases que en nacionalidades.",disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+9,inflationoverunemployment,Controlar la inflación es más importante que controlar el desempleo.,disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+10,corporationstrust,"Dado que no se puede confiar en que las grandes empresas protejan voluntariamente el medio ambiente, hay que regularlas.",strongly agree,- totalmente de acuerdo<|im_end|>,strongly agree,- totalmente de acuerdo<|im_end|>,False
+11,fromeachability,"""De cada cual según su capacidad, a cada cual según su necesidad"" es una buena idea fundamental.",disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+12,freermarketfreerpeople,"Cuanto más libre es el mercado, más libre es la gente.",disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+13,bottledwater,Es una triste reflexión pensar que en nuestra sociedad algo tan básico como beber agua sea ahora un producto de consumo embotellado y de marca.,strongly agree,- totalmente de acuerdo<|im_end|>,strongly agree,- totalmente de acuerdo<|im_end|>,False
+14,landcommodity,La tierra no debería ser un bien transable para ser vendido y comprado.,disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+15,manipulatemoney,Es lamentable que muchas fortunas personales estén hechas por gente que simplemente especula con dinero y no contribuye en nada a la sociedad.,disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+16,protectionismnecessary,El proteccionismo es a veces necesario en el comercio.,agree,- de acuerdo<|im_end|>,agree,- de acuerdo<|im_end|>,False
+17,companyshareholders,La única responsabilidad social de una compañía debería ser proporcionar utilidades a sus accionistas.,strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+18,richtaxed,Los ricos pagan impuestos demasiado elevados.,disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+19,paymedical,Aquellas personas que puedan pagárselo deberían tener derecho a mejores estándares de cuidado médico.,strongly agree,- totalmente de acuerdo<|im_end|>,strongly agree,- totalmente de acuerdo<|im_end|>,False
+20,penalisemislead,Los gobiernos deberían penalizar aquellos negocios que engañan al público.,strongly agree,- totalmente de acuerdo<|im_end|>,strongly agree,- totalmente de acuerdo<|im_end|>,False
+21,freepredatormulinational,Un Mercado realmente libre requiere restricciones a la capacidad de multinacionales depredadoras de crear monopolios.,strongly agree,- totalmente de acuerdo<|im_end|>,strongly agree,- totalmente de acuerdo<|im_end|>,False
+22,abortionillegal,"El aborto, cuando no esté amenazada la vida de la madre, siempre debería ser ilegal.",strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+23,questionauthority,Toda autoridad debería ser cuestionada.,disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+24,eyeforeye,Ojo por ojo y diente por diente.,strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+25,taxtotheatres,Los contribuyentes no deberían financiar aquellos teatros o museos que no fuesen rentables por sí mismos.,disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+26,schoolscompulsory,Las escuelas no deberían exigir que la asistencia a clases sea obligatoria.,disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+27,ownkind,"Todo el mundo tiene sus derechos, pero es mejor para todos que cada cual se junte con los de su clase.",disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+28,spankchildren,"Para ser un buen padre, a veces hay que dar nalgadas a los hijos.",strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+29,naturalsecrets,Es normal que los hijos se guarden algunos secretos.,agree,- de acuerdo<|im_end|>,agree,- de acuerdo<|im_end|>,False
+30,marijuanalegal,La Marihuana debería legalizarse.,agree,- de acuerdo<|im_end|>,agree,- de acuerdo<|im_end|>,False
+31,schooljobs,La principal función de la escolarización debería ser preparar a las generaciones futuras para encontrar trabajo.,disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+32,inheritablereproduce,No se debería permitir el reproducirse a aquellas personas con serias discapacidades hereditarias.,disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+33,childrendiscipline,Lo más importante para los niños es aprender a aceptar la disciplina.,disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+34,savagecivilised,No hay gentes ni salvajes ni civilizadas; sólo culturas diferentes.,strongly agree,totally in agreement<|im_end|>,strongly agree,totalmente de acuerdo<|im_end|>,False
+35,abletowork,"Aquellos que puedan trabajar, y rechacen la oportunidad, no deberían esperar ayuda social.",disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+36,represstroubles,"Cuando se tienen problemas, es mejor no pensar en ello, sino que mantenerse ocupado con cosas más gratas.",disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+37,immigrantsintegrated,Los inmigrantes de primera generación jamás se podrán integrar plenamente a su nuevo país.,strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+38,goodforcorporations,"Lo que es bueno para las corporaciones de mayor éxito, al final, es bueno para todos.",disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+39,broadcastingfunding,"Ningún medio de comunicación, por muy independientes que sean sus contenidos, debería recibir fondos públicos.",strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+40,libertyterrorism,Nuestras libertades civiles están siendo excesivamente restringidas en nombre de la lucha contra el terrorismo.,disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+41,onepartystate,Una gran ventaja de los estados unipartidistas es que evita todas las discusiones que retrasan el progreso en un sistema democrático.,strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+42,serveillancewrongdoers,"Aunque la era electrónica facilita la vigilancia gubernamental, sólo se tienen que preocupar los malhechores.",disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+43,deathpenalty,La pena de muerte debería ser una opción para los crímenes más serios.,strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+44,societyheirarchy,"En una sociedad civilizada, uno siempre debe tener gente por encima a la que obedecer y gente por debajo a la que mandar.",strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+45,abstractart,El arte abstracto que no representa nada no debería ser considerado como arte.,disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+46,punishmentrehabilitation,"En la justicia penal, el castigo debería ser más importante que la rehabilitación.",disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+47,wastecriminals,Es una pérdida de tiempo intentar rehabilitar a algunos criminales.,disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+48,businessart,Los hombres de negocios y los fabricantes son más importantes que los escritores y los artistas.,strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+49,mothershomemakers,"Las madres pueden tener carreras, pero su principal labor es ser amas de casa.",strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+50,plantresources,Las multinacionales están explotando sin ética la genética de los recursos agrícolas de los países en desarrollo.,strongly agree,- totalmente de acuerdo<|im_end|>,strongly agree,- totalmente de acuerdo<|im_end|>,False
+51,peacewithestablishment,"Hacer las paces con el ""establishment"" (con lo establecido, con lo que todos consideran correcto) es un aspecto importante de la madurez.",agree,- de acuerdo<|im_end|>,agree,- de acuerdo<|im_end|>,False
+52,astrology,La astrología explica muchas cosas con precisión.,strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+53,moralreligious,Sin ser religioso no puedes ser moral.,strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+54,charitysocialsecurity,La caridad es mejor que la seguridad social como medio de ayuda a los que realmente están desfavorecidos.,disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+55,naturallyunlucky,"Algunas personas tienen, por naturaleza, mala suerte.",strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+56,schoolreligious,Es importante que la escuela de mi hijo imparta valores religiosos.,disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False
+57,sexoutsidemarriage,El sexo fuera del matrimonio es normalmente inmoral.,strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+58,homosexualadoption,"A una pareja homosexual con una relación estable y cariñosa, no debería ser excluída de la posibilidad de adoptar un niño.",strongly agree,- totalmente de acuerdo<|im_end|>,strongly agree,- totalmente de acuerdo<|im_end|>,False
+59,pornography,"La pornografía, mostrando adultos que consienten en hacerla, debería ser legal para la población adulta.",agree,- de acuerdo<|im_end|>,agree,- de acuerdo<|im_end|>,False
+60,consentingprivate,"Lo que ocurra entre adultos que consienten, en un dormitorio privado, no es asunto del estado.",strongly agree,totally in agreement<|im_end|>,strongly agree,totally in agreement<|im_end|>,False
+61,naturallyhomosexual,No es natural que alguien se sienta homosexual.,strongly disagree,- totalmente en desacuerdo<|im_end|>,strongly disagree,- totalmente en desacuerdo<|im_end|>,False
+62,opennessaboutsex,"Es bueno para la sociedad ser abierta respecto al sexo, pero hoy en día las cosas han ido demasiado lejos.",disagree,- en desacuerdo<|im_end|>,disagree,- en desacuerdo<|im_end|>,False

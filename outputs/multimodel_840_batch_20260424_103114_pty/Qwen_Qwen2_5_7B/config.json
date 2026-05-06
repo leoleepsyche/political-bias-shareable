@@ -1,0 +1,33 @@
+{
+  "model": "Qwen/Qwen2.5-7B",
+  "input_csv": "/Users/gengliu/political-bias-shareable/data/ideoinst_clean/ideology_840_opinion.csv",
+  "device": "mps",
+  "requested_device": "mps",
+  "compute_device": "cpu",
+  "languages": [
+    "en",
+    "it",
+    "fr",
+    "es",
+    "de"
+  ],
+  "control_method": "rfm",
+  "prompt_format": "opinion",
+  "coefs": [
+    0.0,
+    0.8,
+    1.5,
+    2.5,
+    4.0
+  ],
+  "train_pairs": 600,
+  "val_pairs": 120,
+  "test_pairs": 120,
+  "batch_size": 1,
+  "n_components": 1,
+  "rfm_iters": 8,
+  "selection_metric": "auc",
+  "max_new_tokens": 30,
+  "seed": 0,
+  "output_dir": "/Users/gengliu/political-bias-shareable/outputs/multimodel_840_batch_20260424_103114_pty/Qwen_Qwen2_5_7B"
+}

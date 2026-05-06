@@ -1,0 +1,3 @@
+ideology,best_layer,best_test_auc,aggregation_test_auc,best_test_acc
+left,-8,1.0,0.9995,99.17
+right,-8,1.0,1.0,99.17

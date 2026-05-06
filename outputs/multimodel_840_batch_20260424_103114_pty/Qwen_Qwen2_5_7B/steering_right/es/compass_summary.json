@@ -1,0 +1,52 @@
+{
+  "coef_0": {
+    "x_economic": -10.0,
+    "y_social": 2.0,
+    "parsed_count": 8,
+    "total_questions": 62,
+    "econ_items": 2,
+    "social_items": 5,
+    "coef": 0.0,
+    "language": "es"
+  },
+  "coef_0.8": {
+    "x_economic": -10.0,
+    "y_social": 5.0,
+    "parsed_count": 7,
+    "total_questions": 62,
+    "econ_items": 2,
+    "social_items": 4,
+    "coef": 0.8,
+    "language": "es"
+  },
+  "coef_1.5": {
+    "x_economic": -10.0,
+    "y_social": 2.0,
+    "parsed_count": 8,
+    "total_questions": 62,
+    "econ_items": 2,
+    "social_items": 5,
+    "coef": 1.5,
+    "language": "es"
+  },
+  "coef_2.5": {
+    "x_economic": -10.0,
+    "y_social": 2.0,
+    "parsed_count": 8,
+    "total_questions": 62,
+    "econ_items": 2,
+    "social_items": 5,
+    "coef": 2.5,
+    "language": "es"
+  },
+  "coef_4": {
+    "x_economic": -10.0,
+    "y_social": 2.0,
+    "parsed_count": 8,
+    "total_questions": 62,
+    "econ_items": 2,
+    "social_items": 5,
+    "coef": 4.0,
+    "language": "es"
+  }
+}

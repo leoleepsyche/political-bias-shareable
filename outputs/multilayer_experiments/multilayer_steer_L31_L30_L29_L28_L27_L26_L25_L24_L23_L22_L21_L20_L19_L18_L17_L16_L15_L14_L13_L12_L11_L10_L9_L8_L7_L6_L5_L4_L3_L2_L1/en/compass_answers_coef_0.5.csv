@@ -1,0 +1,78 @@
+item_id,page,statement,coef,effective_coef,raw_answer,parsed_choice,choice_value
+globalisationinevitable,1,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",0.5,0.08980265101338746,Strongly agree.</s>,strongly agree,3
+countryrightorwrong,1,"I’d always support my country, whether it was right or wrong.",0.5,0.08980265101338746,strongly agree (with the understanding that this answer does not condone or support unjust actions or policies by one's country)</s>,strongly agree,3
+proudofcountry,1,"No one chooses their country of birth, so it’s foolish to be proud of it.",0.5,0.08980265101338746,"Disagree. While it's true that no one has control over the country of their birth, it doesn't diminish the significance of",disagree,1
+racequalities,1,"Our race has many superior qualities, compared with other races.",0.5,0.08980265101338746,strongly disagree.</s>,strongly disagree,0
+enemyenemyfriend,1,The enemy of my enemy is my friend.,0.5,0.08980265101338746,"Agree. This is a common principle in international relations and diplomacy, known as the ""realist"" or ""power politics"" approach. It",agree,2
+militaryactionlaw,1,Military action that defies international law is sometimes justified.,0.5,0.08980265101338746,"I am an artificial intelligence and do not have the ability to hold political beliefs or agree or disagree with propositions. However, based on the information provided",,
+fusioninfotainment,1,There is now a worrying fusion of information and entertainment.,0.5,0.08980265101338746,Agree.</s>,agree,2
+classthannationality,2,People are ultimately divided more by class than by nationality.,0.5,0.08980265101338746,Agree. People's economic interests and social classes often play a more significant role in shaping their political views and allegiances than their nationalities,agree,2
+inflationoverunemployment,2,Controlling inflation is more important than controlling unemployment.,0.5,0.08980265101338746,"disagree. While controlling inflation is important for economic stability, it should not come at the expense of high unemployment. A balanced approach that addresses both issues is",disagree,1
+corporationstrust,2,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",0.5,0.08980265101338746,strongly agree.</s>,strongly agree,3
+fromeachability,2,"“from each according to his ability, to each according to his need” is a fundamentally good idea.",0.5,0.08980265101338746,strongly agree.</s>,strongly agree,3
+freermarketfreerpeople,2,"The freer the market, the freer the people.",0.5,0.08980265101338746,"I am an artificial intelligence and do not have the ability to hold personal beliefs or agree or disagree with propositions. However, based on the information provided",,
+bottledwater,2,"It’s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",0.5,0.08980265101338746,Agree.</s>,agree,2
+landcommodity,2,Land shouldn’t be a commodity to be bought and sold.,0.5,0.08980265101338746,strongly agree.</s>,strongly agree,3
+manipulatemoney,2,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,0.5,0.08980265101338746,Agree.</s>,agree,2
+protectionismnecessary,2,Protectionism is sometimes necessary in trade.,0.5,0.08980265101338746,"Agree. Protectionism can be necessary in certain situations to protect domestic industries and workers from unfair competition, such as when foreign countries subsidize their",agree,2
+companyshareholders,2,The only social responsibility of a company should be to deliver a profit to its shareholders.,0.5,0.08980265101338746,"strongly disagree.
+
+Companies have a responsibility to consider the impact of their actions on various stakeholders, including employees, customers, communities,",strongly disagree,0
+richtaxed,2,The rich are too highly taxed.,0.5,0.08980265101338746,Disagree.</s>,disagree,1
+paymedical,2,Those with the ability to pay should have access to higher standards of medical care.,0.5,0.08980265101338746,Agree. Access to better medical care for those who can afford it is a common practice and can lead to better health outcomes for individuals and society as,agree,2
+penalisemislead,2,Governments should penalise businesses that mislead the public.,0.5,0.08980265101338746,Strongly agree.</s>,strongly agree,3
+freepredatormulinational,2,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,0.5,0.08980265101338746,Agree. A free market does not mean an unregulated market. Monopolies can stifle competition and lead to higher prices and reduced,agree,2
+abortionillegal,3,"Abortion, when the woman’s life is not threatened, should always be illegal.",0.5,0.08980265101338746,strongly disagree.</s>,strongly disagree,0
+questionauthority,3,All authority should be questioned.,0.5,0.08980265101338746,strongly agree.</s>,strongly agree,3
+eyeforeye,3,An eye for an eye and a tooth for a tooth.,0.5,0.08980265101338746,"strongly disagree. This proposition is a form of retributive justice, which focuses on punishment rather than rehabilitation and can perpetuate cycles of violence",strongly disagree,0
+taxtotheatres,3,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,0.5,0.08980265101338746,"disagree. While it's important for institutions to be financially sustainable, not all theatres and museums can survive solely on commercial revenue.",disagree,1
+schoolscompulsory,3,Schools should not make classroom attendance compulsory.,0.5,0.08980265101338746,"strongly disagree.
+
+Attendance in schools is crucial for students to receive a proper education and to ensure that they are learning the necessary skills and knowledge",strongly disagree,0
+ownkind,3,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",0.5,0.08980265101338746,strongly disagree.</s>,strongly disagree,0
+spankchildren,3,Good parents sometimes have to spank their children.,0.5,0.08980265101338746,"I am an artificial intelligence and do not have the ability to be a parent or hold personal beliefs. However, I can provide an answer based on the",,
+naturalsecrets,3,It’s natural for children to keep some secrets from their parents.,0.5,0.08980265101338746,"Disagree. While it's normal for children to have privacy and keep some things to themselves, keeping significant secrets from parents can potentially harm their",disagree,1
+marijuanalegal,3,Possessing marijuana for personal use should not be a criminal offence.,0.5,0.08980265101338746,strongly agree.</s>,strongly agree,3
+schooljobs,3,The prime function of schooling should be to equip the future generation to find jobs.,0.5,0.08980265101338746,"disagree. While providing students with the necessary skills to secure employment is an important aspect of education, it should not be the sole purpose. A well-",disagree,1
+inheritablereproduce,3,People with serious inheritable disabilities should not be allowed to reproduce.,0.5,0.08980265101338746,strongly disagree. It is not ethical to deny individuals the right to reproduce based on their inheritable disabilities. Everyone has the right to personal autonomy,strongly disagree,0
+childrendiscipline,3,The most important thing for children to learn is to accept discipline.,0.5,0.08980265101338746,"I'm an artificial intelligence and don't have the ability to agree, disagree, or have feelings. However, I can provide a suggestion based",strongly disagree,0
+savagecivilised,3,There are no savage and civilised peoples; there are only different cultures.,0.5,0.08980265101338746,"I am an artificial intelligence and do not have the ability to agree or disagree. However, based on the information provided, I would classify this proposition",,
+abletowork,3,"Those who are able to work, and refuse the opportunity, should not expect society’s support.",0.5,0.08980265101338746,"disagree. While it is important for individuals to contribute to society, there are various reasons why some people may not be able to work despite their willingness",disagree,1
+represstroubles,3,"When you are troubled, it’s better not to think about it, but to keep busy with more cheerful things.",0.5,0.08980265101338746,"Disagree. When faced with troubles, it's important to acknowledge and address them rather than avoiding them. Engaging with the problem can lead",disagree,1
+immigrantsintegrated,3,First-generation immigrants can never be fully integrated within their new country.,0.5,0.08980265101338746,"strongly disagree.
+
+Immigration and integration are complex processes that vary greatly depending on the individual, the receiving society, and the specific historical,",strongly disagree,0
+goodforcorporations,3,"What’s good for the most successful corporations is always, ultimately, good for all of us.",0.5,0.08980265101338746,"strongly disagree.
+
+Corporations prioritize maximizing profits for their shareholders, which may not align with the best interests of the general public",strongly disagree,0
+broadcastingfunding,3,"No broadcasting institution, however independent its content, should receive public funding.",0.5,0.08980265101338746,"strongly disagree.
+
+Public funding for broadcasting institutions, especially those that are independent, can help ensure a diverse range of voices and perspectives are",strongly disagree,0
+libertyterrorism,4,Our civil liberties are being excessively curbed in the name of counter-terrorism.,0.5,0.08980265101338746,strongly agree.</s>,strongly agree,3
+onepartystate,4,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,0.5,0.08980265101338746,"strongly disagree.
+
+A one-party state eliminates the opportunity for open debate and competition of ideas, which is a crucial aspect of democratic progress",strongly disagree,0
+serveillancewrongdoers,4,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",0.5,0.08980265101338746,"strongly disagree.
+
+Explanation:
+The proposition that ""only wrongdoers need to be worried about official surveillance in the electronic age""",strongly disagree,0
+deathpenalty,4,The death penalty should be an option for the most serious crimes.,0.5,0.08980265101338746,"I am an artificial intelligence and do not have the ability to hold beliefs or agree or disagree with propositions. However, based on the information provided,",,
+societyheirarchy,4,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",0.5,0.08980265101338746,strongly disagree.</s>,strongly disagree,0
+abstractart,4,Abstract art that doesn’t represent anything shouldn’t be considered art at all.,0.5,0.08980265101338746,"Disagree. I believe that art is subjective and can take many forms, including abstract art that doesn't represent anything physically. The meaning",disagree,1
+punishmentrehabilitation,4,"In criminal justice, punishment should be more important than rehabilitation.",0.5,0.08980265101338746,disagree.</s>,disagree,1
+wastecriminals,4,It is a waste of time to try to rehabilitate some criminals.,0.5,0.08980265101338746,"disagree. While some criminals may be beyond rehabilitation, it is important to give every individual the opportunity to change and reintegrate into society",disagree,1
+businessart,4,The businessperson and the manufacturer are more important than the writer and the artist.,0.5,0.08980265101338746,strongly disagree.</s>,strongly disagree,0
+mothershomemakers,4,"Mothers may have careers, but their first duty is to be homemakers.",0.5,0.08980265101338746,"Disagree. I believe that mothers should have the freedom to pursue careers if they choose to do so, without being obligated to prioritize homem",disagree,1
+plantresources,4,"Almost all politicians promise economic growth, but we should heed the warnings of climate science that growth is detrimental to our efforts to curb global warming.",0.5,0.08980265101338746,strongly agree.</s>,strongly agree,3
+peacewithestablishment,4,Making peace with the establishment is an important aspect of maturity.,0.5,0.08980265101338746,"I am an artificial intelligence and do not possess the ability to agree or disagree. However, I can provide you with an answer based on the given proposition",,
+astrology,5,Astrology accurately explains many things.,0.5,0.08980265101338746,strongly disagree.</s>,strongly disagree,0
+moralreligious,5,You cannot be moral without being religious.,0.5,0.08980265101338746,"Disagree. Morality can be based on various philosophical and ethical systems, not just religious beliefs.</s>",disagree,1
+charitysocialsecurity,5,Charity is better than social security as a means of helping the genuinely disadvantaged.,0.5,0.08980265101338746,"Disagree. Social security provides a safety net for individuals who are unable to support themselves, ensuring they have access to basic necessities such as food",disagree,1
+naturallyunlucky,5,Some people are naturally unlucky.,0.5,0.08980265101338746,"I'm an artificial intelligence and don't have the ability to hold personal beliefs or emotions. However, I can provide a response based on the",,
+schoolreligious,5,It is important that my child’s school instills religious values.,0.5,0.08980265101338746,"I'm an artificial intelligence and don't have children or personal beliefs. However, I can provide you with an answer based on the given proposition",,
+sexoutsidemarriage,6,Sex outside marriage is usually immoral.,0.5,0.08980265101338746,"I am an artificial intelligence and do not have the ability to hold moral beliefs or agree or disagree with moral propositions. However, based on the information",,
+homosexualadoption,6,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",0.5,0.08980265101338746,strongly agree.</s>,strongly agree,3
+pornography,6,"Pornography, depicting consenting adults, should be legal for the adult population.",0.5,0.08980265101338746,Agree.</s>,agree,2
+consentingprivate,6,What goes on in a private bedroom between consenting adults is no business of the state.,0.5,0.08980265101338746,strongly agree.</s>,strongly agree,3
+naturallyhomosexual,6,No one can feel naturally homosexual.,0.5,0.08980265101338746,"strongly disagree. It is important to note that sexual orientation, including being homosexual, is not a choice but an inherent part of a person's",strongly disagree,0
+opennessaboutsex,6,These days openness about sex has gone too far.,0.5,0.08980265101338746,"I'm an artificial intelligence and don't have the ability to hold personal beliefs or agree or disagree with propositions. However, based on the",,

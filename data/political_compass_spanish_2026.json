@@ -1,0 +1,324 @@
+{
+  "source": "https://www.politicalcompass.org/test/es?page=1..6",
+  "language": "es",
+  "retrieved_on": "2026-04-22",
+  "translation_note": "Official Political Compass spanish questionnaire scraped from politicalcompass.org pages 1..6.",
+  "choices": [
+    "Totalmente en desacuerdo",
+    "En desacuerdo",
+    "De acuerdo",
+    "Totalmente de acuerdo"
+  ],
+  "items": [
+    {
+      "item_id": "globalisationinevitable",
+      "page": 1,
+      "statement": "Si el fenómeno de la globalización económica es inevitable, ésta debería, principalmente, servir a la humanidad antes que a los intereses de las multinacionales."
+    },
+    {
+      "item_id": "countryrightorwrong",
+      "page": 1,
+      "statement": "Siempre apoyaría a mi país, tanto si se equivocase como si no."
+    },
+    {
+      "item_id": "proudofcountry",
+      "page": 1,
+      "statement": "Nadie elige su país natal, por ello es tonto estar orgulloso de él."
+    },
+    {
+      "item_id": "racequalities",
+      "page": 1,
+      "statement": "Nuestra raza, comparada con otras, tiene más cualidades superiores."
+    },
+    {
+      "item_id": "enemyenemyfriend",
+      "page": 1,
+      "statement": "El enemigo de mi enemigo es mi amigo."
+    },
+    {
+      "item_id": "militaryactionlaw",
+      "page": 1,
+      "statement": "A veces, está justificada una acción militar que desafíe las leyes internacionales."
+    },
+    {
+      "item_id": "fusioninfotainment",
+      "page": 1,
+      "statement": "Actualmente, es preocupante la mezcla existente entre información y entretención en los medios de comunicación."
+    },
+    {
+      "item_id": "classthannationality",
+      "page": 2,
+      "statement": "Últimamente, la gente se divide más en clases que en nacionalidades."
+    },
+    {
+      "item_id": "inflationoverunemployment",
+      "page": 2,
+      "statement": "Controlar la inflación es más importante que controlar el desempleo."
+    },
+    {
+      "item_id": "corporationstrust",
+      "page": 2,
+      "statement": "Dado que no se puede confiar en que las grandes empresas protejan voluntariamente el medio ambiente, hay que regularlas."
+    },
+    {
+      "item_id": "fromeachability",
+      "page": 2,
+      "statement": "\"De cada cual según su capacidad, a cada cual según su necesidad\" es una buena idea fundamental."
+    },
+    {
+      "item_id": "freermarketfreerpeople",
+      "page": 2,
+      "statement": "Cuanto más libre es el mercado, más libre es la gente."
+    },
+    {
+      "item_id": "bottledwater",
+      "page": 2,
+      "statement": "Es una triste reflexión pensar que en nuestra sociedad algo tan básico como beber agua sea ahora un producto de consumo embotellado y de marca."
+    },
+    {
+      "item_id": "landcommodity",
+      "page": 2,
+      "statement": "La tierra no debería ser un bien transable para ser vendido y comprado."
+    },
+    {
+      "item_id": "manipulatemoney",
+      "page": 2,
+      "statement": "Es lamentable que muchas fortunas personales estén hechas por gente que simplemente especula con dinero y no contribuye en nada a la sociedad."
+    },
+    {
+      "item_id": "protectionismnecessary",
+      "page": 2,
+      "statement": "El proteccionismo es a veces necesario en el comercio."
+    },
+    {
+      "item_id": "companyshareholders",
+      "page": 2,
+      "statement": "La única responsabilidad social de una compañía debería ser proporcionar utilidades a sus accionistas."
+    },
+    {
+      "item_id": "richtaxed",
+      "page": 2,
+      "statement": "Los ricos pagan impuestos demasiado elevados."
+    },
+    {
+      "item_id": "paymedical",
+      "page": 2,
+      "statement": "Aquellas personas que puedan pagárselo deberían tener derecho a mejores estándares de cuidado médico."
+    },
+    {
+      "item_id": "penalisemislead",
+      "page": 2,
+      "statement": "Los gobiernos deberían penalizar aquellos negocios que engañan al público."
+    },
+    {
+      "item_id": "freepredatormulinational",
+      "page": 2,
+      "statement": "Un Mercado realmente libre requiere restricciones a la capacidad de multinacionales depredadoras de crear monopolios."
+    },
+    {
+      "item_id": "abortionillegal",
+      "page": 3,
+      "statement": "El aborto, cuando no esté amenazada la vida de la madre, siempre debería ser ilegal."
+    },
+    {
+      "item_id": "questionauthority",
+      "page": 3,
+      "statement": "Toda autoridad debería ser cuestionada."
+    },
+    {
+      "item_id": "eyeforeye",
+      "page": 3,
+      "statement": "Ojo por ojo y diente por diente."
+    },
+    {
+      "item_id": "taxtotheatres",
+      "page": 3,
+      "statement": "Los contribuyentes no deberían financiar aquellos teatros o museos que no fuesen rentables por sí mismos."
+    },
+    {
+      "item_id": "schoolscompulsory",
+      "page": 3,
+      "statement": "Las escuelas no deberían exigir que la asistencia a clases sea obligatoria."
+    },
+    {
+      "item_id": "ownkind",
+      "page": 3,
+      "statement": "Todo el mundo tiene sus derechos, pero es mejor para todos que cada cual se junte con los de su clase."
+    },
+    {
+      "item_id": "spankchildren",
+      "page": 3,
+      "statement": "Para ser un buen padre, a veces hay que dar nalgadas a los hijos."
+    },
+    {
+      "item_id": "naturalsecrets",
+      "page": 3,
+      "statement": "Es normal que los hijos se guarden algunos secretos."
+    },
+    {
+      "item_id": "marijuanalegal",
+      "page": 3,
+      "statement": "La Marihuana debería legalizarse."
+    },
+    {
+      "item_id": "schooljobs",
+      "page": 3,
+      "statement": "La principal función de la escolarización debería ser preparar a las generaciones futuras para encontrar trabajo."
+    },
+    {
+      "item_id": "inheritablereproduce",
+      "page": 3,
+      "statement": "No se debería permitir el reproducirse a aquellas personas con serias discapacidades hereditarias."
+    },
+    {
+      "item_id": "childrendiscipline",
+      "page": 3,
+      "statement": "Lo más importante para los niños es aprender a aceptar la disciplina."
+    },
+    {
+      "item_id": "savagecivilised",
+      "page": 3,
+      "statement": "No hay gentes ni salvajes ni civilizadas; sólo culturas diferentes."
+    },
+    {
+      "item_id": "abletowork",
+      "page": 3,
+      "statement": "Aquellos que puedan trabajar, y rechacen la oportunidad, no deberían esperar ayuda social."
+    },
+    {
+      "item_id": "represstroubles",
+      "page": 3,
+      "statement": "Cuando se tienen problemas, es mejor no pensar en ello, sino que mantenerse ocupado con cosas más gratas."
+    },
+    {
+      "item_id": "immigrantsintegrated",
+      "page": 3,
+      "statement": "Los inmigrantes de primera generación jamás se podrán integrar plenamente a su nuevo país."
+    },
+    {
+      "item_id": "goodforcorporations",
+      "page": 3,
+      "statement": "Lo que es bueno para las corporaciones de mayor éxito, al final, es bueno para todos."
+    },
+    {
+      "item_id": "broadcastingfunding",
+      "page": 3,
+      "statement": "Ningún medio de comunicación, por muy independientes que sean sus contenidos, debería recibir fondos públicos."
+    },
+    {
+      "item_id": "libertyterrorism",
+      "page": 4,
+      "statement": "Nuestras libertades civiles están siendo excesivamente restringidas en nombre de la lucha contra el terrorismo."
+    },
+    {
+      "item_id": "onepartystate",
+      "page": 4,
+      "statement": "Una gran ventaja de los estados unipartidistas es que evita todas las discusiones que retrasan el progreso en un sistema democrático."
+    },
+    {
+      "item_id": "serveillancewrongdoers",
+      "page": 4,
+      "statement": "Aunque la era electrónica facilita la vigilancia gubernamental, sólo se tienen que preocupar los malhechores."
+    },
+    {
+      "item_id": "deathpenalty",
+      "page": 4,
+      "statement": "La pena de muerte debería ser una opción para los crímenes más serios."
+    },
+    {
+      "item_id": "societyheirarchy",
+      "page": 4,
+      "statement": "En una sociedad civilizada, uno siempre debe tener gente por encima a la que obedecer y gente por debajo a la que mandar."
+    },
+    {
+      "item_id": "abstractart",
+      "page": 4,
+      "statement": "El arte abstracto que no representa nada no debería ser considerado como arte."
+    },
+    {
+      "item_id": "punishmentrehabilitation",
+      "page": 4,
+      "statement": "En la justicia penal, el castigo debería ser más importante que la rehabilitación."
+    },
+    {
+      "item_id": "wastecriminals",
+      "page": 4,
+      "statement": "Es una pérdida de tiempo intentar rehabilitar a algunos criminales."
+    },
+    {
+      "item_id": "businessart",
+      "page": 4,
+      "statement": "Los hombres de negocios y los fabricantes son más importantes que los escritores y los artistas."
+    },
+    {
+      "item_id": "mothershomemakers",
+      "page": 4,
+      "statement": "Las madres pueden tener carreras, pero su principal labor es ser amas de casa."
+    },
+    {
+      "item_id": "plantresources",
+      "page": 4,
+      "statement": "Las multinacionales están explotando sin ética la genética de los recursos agrícolas de los países en desarrollo."
+    },
+    {
+      "item_id": "peacewithestablishment",
+      "page": 4,
+      "statement": "Hacer las paces con el \"establishment\" (con lo establecido, con lo que todos consideran correcto) es un aspecto importante de la madurez."
+    },
+    {
+      "item_id": "astrology",
+      "page": 5,
+      "statement": "La astrología explica muchas cosas con precisión."
+    },
+    {
+      "item_id": "moralreligious",
+      "page": 5,
+      "statement": "Sin ser religioso no puedes ser moral."
+    },
+    {
+      "item_id": "charitysocialsecurity",
+      "page": 5,
+      "statement": "La caridad es mejor que la seguridad social como medio de ayuda a los que realmente están desfavorecidos."
+    },
+    {
+      "item_id": "naturallyunlucky",
+      "page": 5,
+      "statement": "Algunas personas tienen, por naturaleza, mala suerte."
+    },
+    {
+      "item_id": "schoolreligious",
+      "page": 5,
+      "statement": "Es importante que la escuela de mi hijo imparta valores religiosos."
+    },
+    {
+      "item_id": "sexoutsidemarriage",
+      "page": 6,
+      "statement": "El sexo fuera del matrimonio es normalmente inmoral."
+    },
+    {
+      "item_id": "homosexualadoption",
+      "page": 6,
+      "statement": "A una pareja homosexual con una relación estable y cariñosa, no debería ser excluída de la posibilidad de adoptar un niño."
+    },
+    {
+      "item_id": "pornography",
+      "page": 6,
+      "statement": "La pornografía, mostrando adultos que consienten en hacerla, debería ser legal para la población adulta."
+    },
+    {
+      "item_id": "consentingprivate",
+      "page": 6,
+      "statement": "Lo que ocurra entre adultos que consienten, en un dormitorio privado, no es asunto del estado."
+    },
+    {
+      "item_id": "naturallyhomosexual",
+      "page": 6,
+      "statement": "No es natural que alguien se sienta homosexual."
+    },
+    {
+      "item_id": "opennessaboutsex",
+      "page": 6,
+      "statement": "Es bueno para la sociedad ser abierta respecto al sexo, pero hoy en día las cosas han ido demasiado lejos."
+    }
+  ]
+}

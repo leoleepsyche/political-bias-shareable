@@ -1,0 +1,39 @@
+{
+  "run_root": "/Users/gengliu/political-bias-shareable/outputs/multimodel_840_batch_20260424_103114_pty/meta_llama_Meta_Llama_3_8B_Instruct",
+  "detection_root": "/Users/gengliu/political-bias-shareable/outputs/multimodel_840_batch_20260424_103114_pty/meta_llama_Meta_Llama_3_8B_Instruct",
+  "output_dir": "/Users/gengliu/political-bias-shareable/outputs/multimodel_840_batch_20260424_103114_pty/meta_llama_Meta_Llama_3_8B_Instruct/comparison",
+  "strongest_distance": {
+    "language": "fr",
+    "coef": 4.0,
+    "distance": 7.608
+  },
+  "strongest_changed": {
+    "language": "fr",
+    "coef": 4.0,
+    "changed_items": 57
+  },
+  "strongest_branch_shift": {
+    "left": {
+      "language": "fr",
+      "coef": 4.0,
+      "shift": 5.895
+    },
+    "right": {
+      "language": "fr",
+      "coef": 4.0,
+      "shift": 3.81
+    }
+  },
+  "strongest_branch_changed": {
+    "left": {
+      "language": "fr",
+      "coef": 4.0,
+      "changed_items": 56
+    },
+    "right": {
+      "language": "fr",
+      "coef": 4.0,
+      "changed_items": 49
+    }
+  }
+}

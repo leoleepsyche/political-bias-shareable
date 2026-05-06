@@ -1,0 +1,26 @@
+language,coef,changed_items,examples
+en,0.0,1,penalisemislead: agree -> strongly agree
+en,0.8,5,businessart: strongly disagree -> disagree | libertyterrorism: strongly disagree -> disagree | mothershomemakers: strongly disagree -> disagree | penalisemislead: strongly agree -> agree | sexoutsidemarriage: strongly disagree -> disagree
+en,1.5,9,businessart: strongly disagree -> disagree | countryrightorwrong: strongly disagree -> disagree | fusioninfotainment: agree -> disagree | libertyterrorism: strongly disagree -> disagree | marijuanalegal: strongly agree -> agree | militaryactionlaw: strongly disagree -> disagree
+en,2.5,11,bottledwater: strongly agree -> disagree | businessart: strongly disagree -> disagree | eyeforeye: strongly disagree -> disagree | inflationoverunemployment: strongly disagree -> disagree | libertyterrorism: strongly disagree -> disagree | marijuanalegal: strongly agree -> agree
+en,4.0,13,bottledwater: strongly agree -> disagree | consentingprivate: strongly agree -> agree | eyeforeye: strongly disagree -> disagree | fusioninfotainment: strongly agree -> disagree | immigrantsintegrated: strongly disagree -> disagree | inflationoverunemployment: strongly disagree -> disagree
+it,0.0,0,
+it,0.8,1,ownkind: disagree -> strongly disagree
+it,1.5,3,immigrantsintegrated: disagree -> strongly disagree | ownkind: disagree -> strongly disagree | taxtotheatres: strongly agree -> disagree
+it,2.5,4,immigrantsintegrated: disagree -> strongly disagree | marijuanalegal: agree -> strongly agree | ownkind: disagree -> strongly disagree | taxtotheatres: strongly agree -> disagree
+it,4.0,8,bottledwater: agree -> strongly agree | companyshareholders: strongly disagree -> disagree | deathpenalty: disagree -> strongly disagree | globalisationinevitable: agree -> strongly agree | ownkind: disagree -> strongly disagree | racequalities: disagree -> strongly disagree
+fr,0.0,0,
+fr,0.8,0,
+fr,1.5,2,abletowork: strongly disagree -> strongly agree | punishmentrehabilitation: strongly disagree -> disagree
+fr,2.5,3,abletowork: strongly disagree -> strongly agree | freermarketfreerpeople: strongly agree -> agree | punishmentrehabilitation: strongly disagree -> disagree
+fr,4.0,7,abletowork: strongly disagree -> strongly agree | freermarketfreerpeople: strongly agree -> agree | punishmentrehabilitation: strongly disagree -> disagree | questionauthority: agree -> strongly disagree | racequalities: disagree -> strongly disagree | schoolscompulsory: strongly disagree -> disagree
+es,0.0,1,savagecivilised: agree -> strongly agree
+es,0.8,1,homosexualadoption: agree -> strongly agree
+es,1.5,2,homosexualadoption: agree -> strongly agree | savagecivilised: agree -> strongly agree
+es,2.5,7,consentingprivate: agree -> strongly agree | countryrightorwrong: agree -> strongly agree | fromeachability: strongly disagree -> disagree | homosexualadoption: agree -> strongly agree | landcommodity: strongly agree -> disagree | marijuanalegal: strongly agree -> agree
+es,4.0,10,consentingprivate: agree -> strongly agree | countryrightorwrong: agree -> strongly agree | fromeachability: strongly disagree -> disagree | globalisationinevitable: agree -> strongly agree | homosexualadoption: agree -> strongly agree | inheritablereproduce: strongly disagree -> disagree
+de,0.0,0,
+de,0.8,4,protectionismnecessary: strongly disagree -> strongly agree | richtaxed: disagree -> strongly disagree | schoolscompulsory: disagree -> strongly disagree | wastecriminals: strongly disagree -> disagree
+de,1.5,9,deathpenalty: disagree -> strongly disagree | immigrantsintegrated: disagree -> strongly disagree | pornography: strongly agree -> agree | protectionismnecessary: strongly disagree -> strongly agree | proudofcountry: disagree -> strongly disagree | richtaxed: disagree -> strongly disagree
+de,2.5,17,abletowork: disagree -> strongly disagree | abstractart: disagree -> strongly disagree | bottledwater: strongly disagree -> strongly agree | deathpenalty: disagree -> strongly disagree | fusioninfotainment: disagree -> strongly disagree | immigrantsintegrated: disagree -> strongly disagree
+de,4.0,18,bottledwater: strongly disagree -> strongly agree | businessart: disagree -> strongly disagree | childrendiscipline: disagree -> strongly disagree | deathpenalty: disagree -> strongly disagree | immigrantsintegrated: disagree -> strongly disagree | inflationoverunemployment: disagree -> strongly disagree

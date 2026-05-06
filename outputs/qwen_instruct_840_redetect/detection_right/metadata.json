@@ -1,0 +1,20 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "device": "mps",
+  "compute_device": "cpu",
+  "control_method": "rfm",
+  "prompt_format": "opinion",
+  "positive_ideology": "right",
+  "train_pairs": 600,
+  "val_pairs": 120,
+  "test_pairs": 120,
+  "train_inputs": 1200,
+  "val_inputs": 240,
+  "test_inputs": 240,
+  "selection_metric": "auc",
+  "input_csv": "/Users/gengliu/political-bias-shareable/data/ideoinst_clean/ideology_840_opinion.csv",
+  "batch_size": 1,
+  "n_components": 1,
+  "rfm_iters": 8,
+  "seed": 0
+}

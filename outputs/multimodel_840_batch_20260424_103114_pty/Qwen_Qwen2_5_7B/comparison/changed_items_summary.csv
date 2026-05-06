@@ -1,0 +1,26 @@
+language,coef,changed_items,examples
+en,0.0,0,
+en,0.8,0,
+en,1.5,0,
+en,2.5,1,fromeachability: strongly disagree -> None
+en,4.0,2,bottledwater: strongly disagree -> None | fromeachability: strongly disagree -> None
+it,0.0,0,
+it,0.8,0,
+it,1.5,0,
+it,2.5,0,
+it,4.0,0,
+fr,0.0,0,
+fr,0.8,0,
+fr,1.5,0,
+fr,2.5,0,
+fr,4.0,0,
+es,0.0,0,
+es,0.8,1,naturallyhomosexual: strongly disagree -> None
+es,1.5,0,
+es,2.5,0,
+es,4.0,0,
+de,0.0,0,
+de,0.8,1,savagecivilised: agree -> None
+de,1.5,1,savagecivilised: agree -> None
+de,2.5,2,enemyenemyfriend: None -> agree | savagecivilised: agree -> None
+de,4.0,2,enemyenemyfriend: None -> agree | questionauthority: strongly disagree -> strongly agree

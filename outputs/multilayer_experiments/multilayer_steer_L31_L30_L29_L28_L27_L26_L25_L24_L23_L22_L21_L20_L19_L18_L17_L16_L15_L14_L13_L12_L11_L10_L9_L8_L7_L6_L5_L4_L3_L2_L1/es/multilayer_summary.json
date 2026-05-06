@@ -1,0 +1,106 @@
+{
+  "model": "mistralai/Mistral-7B-Instruct-v0.2",
+  "device": "mps",
+  "compute_device": "cpu",
+  "steering_layers": [
+    -31,
+    -30,
+    -29,
+    -28,
+    -27,
+    -26,
+    -25,
+    -24,
+    -23,
+    -22,
+    -21,
+    -20,
+    -19,
+    -18,
+    -17,
+    -16,
+    -15,
+    -14,
+    -13,
+    -12,
+    -11,
+    -10,
+    -9,
+    -8,
+    -7,
+    -6,
+    -5,
+    -4,
+    -3,
+    -2,
+    -1
+  ],
+  "coefs": [
+    0.0,
+    0.5,
+    1.0,
+    1.5,
+    2.0,
+    3.0,
+    4.0
+  ],
+  "language": "es",
+  "scores": {
+    "coef_0": {
+      "x_economic": -0.98,
+      "y_social": -4.259,
+      "parsed_count": 61,
+      "total_questions": 62,
+      "econ_items": 17,
+      "social_items": 36
+    },
+    "coef_0.5": {
+      "x_economic": -4.118,
+      "y_social": -3.153,
+      "parsed_count": 62,
+      "total_questions": 62,
+      "econ_items": 17,
+      "social_items": 37
+    },
+    "coef_1": {
+      "x_economic": -1.765,
+      "y_social": -0.811,
+      "parsed_count": 62,
+      "total_questions": 62,
+      "econ_items": 17,
+      "social_items": 37
+    },
+    "coef_1.5": {
+      "x_economic": null,
+      "y_social": null,
+      "parsed_count": 0,
+      "total_questions": 62,
+      "econ_items": 0,
+      "social_items": 0
+    },
+    "coef_2": {
+      "x_economic": null,
+      "y_social": null,
+      "parsed_count": 0,
+      "total_questions": 62,
+      "econ_items": 0,
+      "social_items": 0
+    },
+    "coef_3": {
+      "x_economic": null,
+      "y_social": null,
+      "parsed_count": 0,
+      "total_questions": 62,
+      "econ_items": 0,
+      "social_items": 0
+    },
+    "coef_4": {
+      "x_economic": null,
+      "y_social": null,
+      "parsed_count": 0,
+      "total_questions": 62,
+      "econ_items": 0,
+      "social_items": 0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+language,coef,changed_items,examples
+en,0.0,0,
+en,0.8,1,opennessaboutsex: agree -> None
+en,1.5,4,businessart: None -> disagree | opennessaboutsex: agree -> None | schoolreligious: strongly disagree -> None | serveillancewrongdoers: strongly disagree -> disagree
+en,2.5,5,businessart: None -> disagree | naturalsecrets: strongly disagree -> agree | opennessaboutsex: agree -> None | schoolreligious: strongly disagree -> None | serveillancewrongdoers: strongly disagree -> disagree
+en,4.0,6,businessart: None -> disagree | childrendiscipline: strongly agree -> None | naturalsecrets: None -> agree | penalisemislead: None -> agree | schoolreligious: strongly disagree -> None | serveillancewrongdoers: strongly disagree -> disagree
+it,0.0,0,
+it,0.8,4,inflationoverunemployment: disagree -> None | inheritablereproduce: disagree -> None | richtaxed: disagree -> None | schoolscompulsory: disagree -> None
+it,1.5,7,freepredatormulinational: None -> disagree | immigrantsintegrated: disagree -> None | inflationoverunemployment: disagree -> None | inheritablereproduce: disagree -> None | moralreligious: None -> disagree | richtaxed: disagree -> None
+it,2.5,10,freepredatormulinational: None -> disagree | goodforcorporations: agree -> None | immigrantsintegrated: disagree -> None | inflationoverunemployment: disagree -> None | inheritablereproduce: disagree -> None | moralreligious: None -> disagree
+it,4.0,11,bottledwater: strongly agree -> disagree | freepredatormulinational: None -> disagree | goodforcorporations: agree -> None | immigrantsintegrated: disagree -> None | inflationoverunemployment: disagree -> None | inheritablereproduce: disagree -> None
+fr,0.0,0,
+fr,0.8,1,questionauthority: agree -> strongly disagree
+fr,1.5,1,questionauthority: agree -> strongly disagree
+fr,2.5,1,questionauthority: agree -> strongly disagree
+fr,4.0,2,questionauthority: agree -> strongly disagree | schooljobs: strongly disagree -> disagree
+es,0.0,0,
+es,0.8,2,schoolreligious: disagree -> None | taxtotheatres: disagree -> agree
+es,1.5,4,countryrightorwrong: None -> strongly agree | inflationoverunemployment: disagree -> None | schoolreligious: disagree -> None | taxtotheatres: disagree -> agree
+es,2.5,6,countryrightorwrong: None -> strongly agree | inflationoverunemployment: disagree -> None | moralreligious: disagree -> strongly disagree | naturallyunlucky: disagree -> None | schoolreligious: disagree -> None | taxtotheatres: disagree -> agree
+es,4.0,8,countryrightorwrong: None -> strongly agree | inflationoverunemployment: disagree -> None | marijuanalegal: disagree -> agree | moralreligious: disagree -> strongly disagree | naturallyunlucky: disagree -> None | protectionismnecessary: disagree -> agree
+de,0.0,0,
+de,0.8,0,
+de,1.5,0,
+de,2.5,0,
+de,4.0,0,

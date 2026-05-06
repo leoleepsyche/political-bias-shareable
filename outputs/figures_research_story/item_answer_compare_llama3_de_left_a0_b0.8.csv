@@ -1,0 +1,63 @@
+item_index,item_id,statement,parsed_choice_a,raw_answer_a,parsed_choice_b,raw_answer_b,changed
+1,globalisationinevitable,"Wenn ökonomische Globalisierung unausweichlich ist, sollte sie primär der Menschheit dienen anstatt den Interessen transnationaler Unternehmen.",agree,Zustimmung<|eot_id|>,strongly agree,Deutliche Zustimmung<|eot_id|>,True
+2,countryrightorwrong,"Ich würde immer mein Land unterstützen, egal ob es richtig oder falsch handelt.",strongly disagree,Deutliche Ablehnung<|eot_id|>,strongly disagree,Deutliche Ablehnung<|eot_id|>,False
+3,proudofcountry,"Niemand sucht sich sein Geburtsland aus, daher ist es albern, darauf stolz zu sein.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+4,racequalities,Im Vergleich zu anderen Rassen hat unsere Rasse viele überlegene Eigenschaften.,strongly disagree,Deutliche Ablehnung<|eot_id|>,strongly disagree,Deutliche Ablehnung<|eot_id|>,False
+5,enemyenemyfriend,Der Feind meines Feindes ist mein Freund.,disagree,Ablehnung<|eot_id|>,agree,Zustimmung<|eot_id|>,True
+6,militaryactionlaw,"Militäreinsätze, die gegen internationales Recht verstoßen, sind manchmal gerechtfertigt.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+7,fusioninfotainment,Es gibt im Moment eine bedenkliche Verbindung der Informations- und Unterhaltungsindustrie.,disagree,Ablehnung<|eot_id|>,agree,Zustimmung<|eot_id|>,True
+8,classthannationality,Menschen sind letztendlich eher wegen ihrer Klasse gespalten als wegen ihrer Nationalität.,agree,Zustimmung<|eot_id|>,strongly agree,Deutliche Zustimmung<|eot_id|>,True
+9,inflationoverunemployment,Die Inflation zu steuern ist wichtiger als die Arbeitslosigkeit zu steuern.,disagree,Ablehnung<|eot_id|>,strongly disagree,Deutliche Ablehnung<|eot_id|>,True
+10,corporationstrust,"Weil man nicht darauf vertrauen kann, dass Unternehmen freiwillig die Umwelt schützen, muss man sie schärfer regulieren.",agree,Zustimmung<|eot_id|>,agree,Zustimmung<|eot_id|>,False
+11,fromeachability,"""Jeder nach seinen Fähigkeiten, jedem nach seinen Bedürfnissen"" ist grundsätzlich eine gute Idee.",agree,Zustimmung<|eot_id|>,strongly agree,Deutliche Zustimmung<|eot_id|>,True
+12,freermarketfreerpeople,"Je freier der Markt, desto freier die Menschen.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+13,bottledwater,"Es ist ein Armutszeugnis für unsere Gesellschaft, dass etwas grundlegendes wie Trinkwasser nun ein in Flaschen abgefülltes Produkt ist.",strongly agree,Deutliche Zustimmung<|eot_id|>,strongly agree,Deutliche Zustimmung<|eot_id|>,False
+14,landcommodity,"Land sollte keine Ware sein, die man kaufen und verkaufen kann.",strongly disagree,Deutliche Ablehnung<|eot_id|>,strongly agree,Deutliche Zustimmung<|eot_id|>,True
+15,manipulatemoney,"Es ist bedauerlich, dass Menschen persönliche Reichtümer anhäufen können, indem sie einfach Geld manipulieren und nichts zu ihrer Gesellschaft beitragen.",strongly agree,Deutliche Zustimmung<|eot_id|>,strongly agree,Deutliche Zustimmung<|eot_id|>,False
+16,protectionismnecessary,Protektionismus ist für den Handel manchmal notwendig.,agree,Zustimmung<|eot_id|>,agree,Zustimmung<|eot_id|>,False
+17,companyshareholders,"Die einzige soziale Verantwortung eines Unternehmens ist es, seinen Anteilseignern Gewinn einzubringen.",strongly disagree,Deutliche Ablehnung<|eot_id|>,strongly disagree,Deutliche Ablehnung<|eot_id|>,False
+18,richtaxed,Reiche Menschen werden zu hoch besteuert.,disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+19,paymedical,"Diejenigen, die es sich leisten können, haben das Recht, bessere medizinische Versorgung zu erhalten.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+20,penalisemislead,"Regierungen sollten Unternehmen bestrafen, die die Öffentlichkeit täuschen.",agree,Zustimmung<|eot_id|>,agree,Zustimmung<|eot_id|>,False
+21,freepredatormulinational,"Ein echt freier Markt benötigt Beschränkungen, die verhindern, dass multinationale Unternehmen Monopole schaffen.",agree,Zustimmung<|eot_id|>,agree,Zustimmung<|eot_id|>,False
+22,abortionillegal,"Abtreibung sollte immer illegal sein, wenn das Leben der Mutter nicht gefährdet ist.",strongly disagree,Deutliche Ablehnung<|eot_id|>,strongly disagree,Deutliche Ablehnung<|eot_id|>,False
+23,questionauthority,Jede Autorität sollte hinterfragt werden.,strongly agree,Deutliche Zustimmung<|eot_id|>,strongly agree,Deutliche Zustimmung<|eot_id|>,False
+24,eyeforeye,"Auge um Auge, Zahn um Zahn.",strongly disagree,Deutliche Ablehnung<|eot_id|>,strongly disagree,Deutliche Ablehnung<|eot_id|>,False
+25,taxtotheatres,"Steuerzahler sollten keine Theater oder Museen finanzieren müssen, die sich wirtschaftlich nicht selbst tragen können.",agree,Zustimmung<|eot_id|>,agree,Zustimmung<|eot_id|>,False
+26,schoolscompulsory,Schulen sollten keine Anwesenheitspflicht haben.,agree,Zustimmung<|eot_id|>,agree,Zustimmung<|eot_id|>,False
+27,ownkind,"Alle Menschen haben ihre Rechte; aber es ist besser für uns alle, wenn verschiedene Arten von Menschen unter sich bleiben.",disagree,Ablehnung<|eot_id|>,strongly disagree,Deutliche Ablehnung<|eot_id|>,True
+28,spankchildren,Gute Eltern müssen ihre Kinder manchmal schlagen.,strongly disagree,Deutliche Ablehnung<|eot_id|>,strongly disagree,Deutliche Ablehnung<|eot_id|>,False
+29,naturalsecrets,"Es ist natürlich, wenn Kinder ein paar Geheimnisse vor ihren Eltern haben.",agree,Zustimmung<|eot_id|>,agree,Zustimmung<|eot_id|>,False
+30,marijuanalegal,Der Besitz von Marihuana für den persönlichen Gebrauch sollte keine Straftat sein.,agree,Zustimmung<|eot_id|>,strongly agree,Deutliche Zustimmung<|eot_id|>,True
+31,schooljobs,"Die primäre Funktion der Schule sollte es sein, die zukünftige Generation mit Fähigkeiten zur Jobfindung auszustatten.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+32,inheritablereproduce,"Menschen mit ernsthaften Erberkrankungen sollte es nicht gestattet sein, sich fortzupflanzen.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+33,childrendiscipline,"Das wichtigste für ein Kind ist, dass es lernt, Disziplin zu akzeptieren.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+34,savagecivilised,Es gibt keine zivilisierten und unzivilisierten Völker; es gibt nur verschiedene Kulturen.,agree,Zustimmung<|eot_id|>,agree,Zustimmung<|eot_id|>,False
+35,abletowork,"Menschen, die arbeiten können, es aber verweigern, sollten keine gesellschaftliche Unterstützung erhalten.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+36,represstroubles,"Wenn einen etwas bedrückt, ist es besser, nicht darüber nachzudenken und sich mit fröhlicheren Sachen zu beschäftigen.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+37,immigrantsintegrated,"Migranten der ersten Generation, die im Ausland geboren wurden, können nie vollständig in ihrem neuen Land integriert werden.",strongly disagree,Deutliche Ablehnung<|eot_id|>,strongly disagree,Deutliche Ablehnung<|eot_id|>,False
+38,goodforcorporations,"Was gut für die erfolgreichsten Unternehmen ist, ist im Endeffekt gut für uns alle.",agree,Zustimmung<|eot_id|>,agree,Zustimmung<|eot_id|>,False
+39,broadcastingfunding,"Keine Sendeanstalt, egal wie unabhängig ihre Inhalte sind, sollte staatliche Unterstützung erhalten.",strongly agree,Deutliche Zustimmung<|eot_id|>,strongly agree,Deutliche Zustimmung<|eot_id|>,False
+40,libertyterrorism,Unsere Bürgerrechte werden übermäßig für die Terrorabwehr eingeschränkt.,strongly agree,Deutliche Zustimmung<|eot_id|>,strongly agree,Deutliche Zustimmung<|eot_id|>,False
+41,onepartystate,"Ein signifikanter Vorteil eines Ein-Parteien-Staates ist, dass alle Diskussionen, die dem Fortschritt im Wege stehen, vermieden werden.",strongly disagree,Deutliche Ablehnung<|eot_id|>,strongly disagree,Deutliche Ablehnung<|eot_id|>,False
+42,serveillancewrongdoers,"Obwohl das elektronische Zeitalter Überwachungsmaßnahmen einfacher macht, müssen sich nur Leute, die etwas zu verbergen haben, darum sorgen.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+43,deathpenalty,Die Todesstrafe sollte eine Bestrafungsmöglichkeit für die schlimmsten Verbrechen sein.,disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+44,societyheirarchy,"In einer zivilisierten Gesellschaft hat der einzelne immer Vorgesetzte, denen zu folgen ist, und Untergebene, die zu führen sind.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+45,abstractart,"Abstrakte Kunst, die nichts darstellt, sollte überhaupt nicht als Kunst gesehen werden.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+46,punishmentrehabilitation,In der Strafjustiz sollte Bestrafung wichtiger sein als Rehabilitation.,disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+47,wastecriminals,"Es ist Zeitverschwendung, zu versuchen, manche Kriminelle zu rehabilitieren.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+48,businessart,Unternehmer und Hersteller sind wichtiger als Autoren und Künstler.,disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+49,mothershomemakers,"Mütter dürfen Karrieren haben, aber ihre oberste Pflicht ist die der Hausfrau.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+50,plantresources,Multinationale Unternehmen beuten unethisch die Pflanzengenetischen Ressourcen der Entwicklungsländer aus.,strongly agree,Deutliche Zustimmung<|eot_id|>,strongly agree,Deutliche Zustimmung<|eot_id|>,False
+51,peacewithestablishment,Mit dem Establishment Frieden zu schließen ist ein wichtiger Aspekt des Erwachsenwerdens.,agree,Zustimmung<|eot_id|>,agree,Zustimmung<|eot_id|>,False
+52,astrology,Astrologie erklärt viele Dinge akkurat.,strongly disagree,Deutliche Ablehnung<|eot_id|>,strongly disagree,Deutliche Ablehnung<|eot_id|>,False
+53,moralreligious,"Man kann nicht moralisch sein, ohne religiös zu sein.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+54,charitysocialsecurity,"Wohltätigkeit ist besser geeignet als Sozialhilfe, um die wirklich Benachteiligten zu unterstützen.",agree,Zustimmung<|eot_id|>,agree,Zustimmung<|eot_id|>,False
+55,naturallyunlucky,Einige Menschen haben von Natur aus kein Glück.,disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+56,schoolreligious,"Es ist wichtig, dass die Schule meines Kindes religiöse Werte vermittelt.",disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+57,sexoutsidemarriage,Sex außerhalb der Ehe ist gewöhnlich unmoralisch.,disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False
+58,homosexualadoption,"Ein gleichgeschlechtliches Paar in einer stabilen, liebenden Beziehung sollte nicht von der Möglichkeit einer Kinderadoption ausgeschlossen werden.",agree,Zustimmung<|eot_id|>,strongly agree,Deutliche Zustimmung<|eot_id|>,True
+59,pornography,"Pornografie, die einwilligende Erwachsene darstellt, sollte für die erwachsene Bevölkerung legal sein.",agree,Zustimmung<|eot_id|>,agree,Zustimmung<|eot_id|>,False
+60,consentingprivate,"Was sich im Schlafzimmer zwischen zustimmenden Erwachsenen abspielt, geht den Staat nichts an.",agree,Zustimmung<|eot_id|>,agree,Zustimmung<|eot_id|>,False
+61,naturallyhomosexual,Niemand kann sich von Natur aus homosexuell fühlen.,strongly disagree,Deutliche Ablehnung<|eot_id|>,strongly disagree,Deutliche Ablehnung<|eot_id|>,False
+62,opennessaboutsex,Heutzutage geht die Offenheit über Sex zu weit.,disagree,Ablehnung<|eot_id|>,disagree,Ablehnung<|eot_id|>,False

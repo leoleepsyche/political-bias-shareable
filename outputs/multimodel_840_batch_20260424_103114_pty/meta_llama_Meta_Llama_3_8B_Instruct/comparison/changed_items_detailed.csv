@@ -1,0 +1,573 @@
+language,coef,item_id,left_choice,right_choice,left_raw,right_raw
+en,0.8,abortionillegal,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,0.8,broadcastingfunding,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,0.8,childrendiscipline,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,0.8,classthannationality,strongly agree,agree,Strongly agree<|eot_id|>,agree<|eot_id|>
+en,0.8,corporationstrust,strongly agree,agree,Strongly agree<|eot_id|>,Agree<|eot_id|>
+en,0.8,deathpenalty,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,0.8,enemyenemyfriend,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,0.8,eyeforeye,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,0.8,freepredatormulinational,strongly agree,agree,Strongly agree<|eot_id|>,Agree<|eot_id|>
+en,0.8,freermarketfreerpeople,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,0.8,fromeachability,strongly agree,agree,Strongly agree<|eot_id|>,agree<|eot_id|>
+en,0.8,goodforcorporations,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,0.8,homosexualadoption,strongly agree,agree,Strongly agree<|eot_id|>,Agree<|eot_id|>
+en,0.8,marijuanalegal,strongly agree,agree,Strongly agree<|eot_id|>,Agree<|eot_id|>
+en,0.8,militaryactionlaw,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,0.8,mothershomemakers,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,0.8,naturallyhomosexual,disagree,strongly disagree,disagree<|eot_id|>,I strongly disagree<|eot_id|>
+en,0.8,naturalsecrets,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,0.8,paymedical,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,0.8,questionauthority,strongly agree,agree,Strongly agree<|eot_id|>,agree<|eot_id|>
+en,0.8,represstroubles,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,1.5,abortionillegal,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,1.5,broadcastingfunding,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,1.5,charitysocialsecurity,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,1.5,childrendiscipline,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,1.5,classthannationality,strongly agree,agree,Strongly agree<|eot_id|>,agree<|eot_id|>
+en,1.5,corporationstrust,strongly agree,agree,Strongly agree<|eot_id|>,Agree<|eot_id|>
+en,1.5,deathpenalty,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,1.5,enemyenemyfriend,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,1.5,eyeforeye,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,1.5,freepredatormulinational,strongly agree,agree,Strongly agree<|eot_id|>,Agree<|eot_id|>
+en,1.5,freermarketfreerpeople,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,1.5,fromeachability,strongly agree,agree,Strongly agree<|eot_id|>,agree<|eot_id|>
+en,1.5,goodforcorporations,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,1.5,homosexualadoption,strongly agree,agree,Strongly agree<|eot_id|>,Agree<|eot_id|>
+en,1.5,inflationoverunemployment,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,1.5,marijuanalegal,strongly agree,agree,Strongly agree<|eot_id|>,Agree<|eot_id|>
+en,1.5,militaryactionlaw,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,1.5,mothershomemakers,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,1.5,naturallyhomosexual,disagree,strongly disagree,disagree<|eot_id|>,I strongly disagree<|eot_id|>
+en,1.5,naturalsecrets,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,1.5,onepartystate,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,1.5,opennessaboutsex,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,1.5,paymedical,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,1.5,peacewithestablishment,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,1.5,questionauthority,strongly agree,agree,Strongly agree<|eot_id|>,agree<|eot_id|>
+en,1.5,represstroubles,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,1.5,richtaxed,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,abortionillegal,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,2.5,broadcastingfunding,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,businessart,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,charitysocialsecurity,strongly agree,disagree,Strongly agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,childrendiscipline,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,classthannationality,strongly agree,agree,strongly agree<|eot_id|>,agree<|eot_id|>
+en,2.5,corporationstrust,strongly agree,agree,Strongly agree<|eot_id|>,Agree<|eot_id|>
+en,2.5,deathpenalty,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,2.5,enemyenemyfriend,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,eyeforeye,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,2.5,freepredatormulinational,strongly agree,agree,Strongly agree<|eot_id|>,Agree<|eot_id|>
+en,2.5,freermarketfreerpeople,strongly agree,disagree,Strongly agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,fromeachability,strongly agree,agree,strongly agree<|eot_id|>,agree<|eot_id|>
+en,2.5,globalisationinevitable,strongly agree,agree,Strongly agree<|eot_id|>,Agree<|eot_id|>
+en,2.5,goodforcorporations,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,2.5,homosexualadoption,strongly agree,agree,Strongly agree<|eot_id|>,Agree<|eot_id|>
+en,2.5,immigrantsintegrated,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,2.5,inflationoverunemployment,strongly agree,disagree,Strongly agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,marijuanalegal,strongly agree,agree,Strongly agree<|eot_id|>,Agree<|eot_id|>
+en,2.5,militaryactionlaw,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,2.5,moralreligious,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,2.5,mothershomemakers,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,2.5,naturalsecrets,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,onepartystate,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,2.5,opennessaboutsex,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,paymedical,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,peacewithestablishment,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,penalisemislead,strongly agree,agree,Strongly agree<|eot_id|>,Agree<|eot_id|>
+en,2.5,proudofcountry,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,punishmentrehabilitation,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,2.5,questionauthority,strongly agree,agree,Strongly agree<|eot_id|>,agree<|eot_id|>
+en,2.5,represstroubles,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,richtaxed,strongly agree,disagree,Strongly agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,schooljobs,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,2.5,schoolreligious,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,2.5,schoolscompulsory,strongly agree,agree,strongly agree<|eot_id|>,agree<|eot_id|>
+en,2.5,serveillancewrongdoers,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,2.5,spankchildren,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,2.5,wastecriminals,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,4.0,abletowork,strongly agree,agree,strongly agree<|eot_id|>,agree<|eot_id|>
+en,4.0,abortionillegal,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,abstractart,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,bottledwater,strongly agree,agree,strongly agree<|eot_id|>,agree<|eot_id|>
+en,4.0,broadcastingfunding,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,businessart,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,charitysocialsecurity,strongly agree,disagree,Strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,childrendiscipline,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,classthannationality,strongly agree,agree,strongly agree<|eot_id|>,agree<|eot_id|>
+en,4.0,corporationstrust,strongly agree,agree,strongly agree<|eot_id|>,agree<|eot_id|>
+en,4.0,countryrightorwrong,strongly agree,strongly disagree,strongly agree<|eot_id|>,strongly disagree<|eot_id|>
+en,4.0,deathpenalty,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,4.0,enemyenemyfriend,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,eyeforeye,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,freepredatormulinational,strongly agree,agree,strongly agree<|eot_id|>,agree<|eot_id|>
+en,4.0,freermarketfreerpeople,strongly agree,disagree,Strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,fromeachability,strongly agree,agree,strongly agree<|eot_id|>,agree<|eot_id|>
+en,4.0,fusioninfotainment,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,globalisationinevitable,strongly agree,agree,strongly agree<|eot_id|>,Agree<|eot_id|>
+en,4.0,goodforcorporations,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,4.0,homosexualadoption,strongly agree,agree,strongly agree<|eot_id|>,agree<|eot_id|>
+en,4.0,immigrantsintegrated,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,4.0,inflationoverunemployment,strongly agree,disagree,Strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,marijuanalegal,strongly agree,agree,strongly agree<|eot_id|>,agree<|eot_id|>
+en,4.0,militaryactionlaw,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,moralreligious,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,4.0,mothershomemakers,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,naturallyhomosexual,strongly agree,strongly disagree,Strongly agree<|eot_id|>,I strongly disagree<|eot_id|>
+en,4.0,naturallyunlucky,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,naturalsecrets,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,onepartystate,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,opennessaboutsex,strongly agree,disagree,Strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,paymedical,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,peacewithestablishment,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,penalisemislead,strongly agree,agree,strongly agree<|eot_id|>,agree<|eot_id|>
+en,4.0,pornography,strongly agree,agree,Strongly agree<|eot_id|>,">
+
+agree<|eot_id|>"
+en,4.0,protectionismnecessary,strongly agree,disagree,Strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,proudofcountry,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,punishmentrehabilitation,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,4.0,questionauthority,strongly agree,agree,strongly agree<|eot_id|>,agree<|eot_id|>
+en,4.0,represstroubles,strongly agree,disagree,Strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,richtaxed,strongly agree,disagree,Strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,savagecivilised,strongly agree,agree,strongly agree<|eot_id|>,agree<|eot_id|>
+en,4.0,schooljobs,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,schoolreligious,strongly agree,disagree,Strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,schoolscompulsory,strongly agree,agree,strongly agree<|eot_id|>,agree<|eot_id|>
+en,4.0,serveillancewrongdoers,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,sexoutsidemarriage,strongly disagree,disagree,strongly disagree<|eot_id|>,disagree<|eot_id|>
+en,4.0,spankchildren,agree,disagree,agree<|eot_id|>,disagree<|eot_id|>
+en,4.0,taxtotheatres,strongly agree,agree,Strongly agree<|eot_id|>,agree<|eot_id|>
+en,4.0,wastecriminals,strongly agree,disagree,strongly agree<|eot_id|>,disagree<|eot_id|>
+it,0.8,abletowork,agree,disagree,d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,0.8,freepredatormulinational,strongly agree,disagree,fortemente d'accordo<|eot_id|>,In disaccordo<|eot_id|>
+it,0.8,fusioninfotainment,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,1.5,abletowork,agree,disagree,d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,1.5,classthannationality,agree,disagree,d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,1.5,corporationstrust,agree,disagree,d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,1.5,countryrightorwrong,strongly disagree,disagree,fortemente in disaccordo<|eot_id|>,in disaccordo<|eot_id|>
+it,1.5,enemyenemyfriend,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,1.5,freepredatormulinational,strongly agree,disagree,fortemente d'accordo<|eot_id|>,In disaccordo<|eot_id|>
+it,1.5,fromeachability,strongly agree,agree,fortemente d'accordo<|eot_id|>,d'accordo<|eot_id|>
+it,1.5,fusioninfotainment,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,1.5,goodforcorporations,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,1.5,naturallyhomosexual,strongly disagree,disagree,fortemente in disaccordo<|eot_id|>,in disaccordo<|eot_id|>
+it,1.5,penalisemislead,agree,strongly agree,d'accordo<|eot_id|>,fortemente d'accordo<|eot_id|>
+it,2.5,abletowork,agree,disagree,d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,abortionillegal,strongly disagree,disagree,fortemente in disaccordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,childrendiscipline,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,classthannationality,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,corporationstrust,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,countryrightorwrong,strongly agree,disagree,Fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,enemyenemyfriend,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,freepredatormulinational,strongly agree,disagree,fortemente d'accordo<|eot_id|>,In disaccordo<|eot_id|>
+it,2.5,freermarketfreerpeople,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,fusioninfotainment,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,goodforcorporations,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,libertyterrorism,strongly agree,strongly disagree,fortemente d'accordo<|eot_id|>,fortemente in disaccordo<|eot_id|>
+it,2.5,naturallyhomosexual,strongly disagree,disagree,fortemente in disaccordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,opennessaboutsex,strongly disagree,disagree,fortemente in disaccordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,ownkind,strongly disagree,disagree,fortemente in disaccordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,paymedical,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,peacewithestablishment,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,pornography,strongly agree,agree,fortemente d'accordo<|eot_id|>,d'accordo<|eot_id|>
+it,2.5,proudofcountry,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,2.5,societyheirarchy,strongly disagree,disagree,fortemente in disaccordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,abletowork,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,abortionillegal,strongly disagree,disagree,fortemente in disaccordo<|eot_id|>,">
+
+in disaccordo<|eot_id|>"
+it,4.0,abstractart,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,broadcastingfunding,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,businessart,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,charitysocialsecurity,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,childrendiscipline,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,classthannationality,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,companyshareholders,strongly disagree,disagree,fortemente in disaccordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,consentingprivate,strongly agree,agree,fortemente d'accordo<|eot_id|>,d'accordo<|eot_id|>
+it,4.0,corporationstrust,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,countryrightorwrong,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,deathpenalty,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,enemyenemyfriend,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,freepredatormulinational,strongly agree,disagree,fortemente d'accordo<|eot_id|>,In disaccordo<|eot_id|>
+it,4.0,freermarketfreerpeople,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,fusioninfotainment,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,goodforcorporations,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,immigrantsintegrated,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,inflationoverunemployment,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,libertyterrorism,strongly agree,strongly disagree,fortemente d'accordo<|eot_id|>,fortemente in disaccordo<|eot_id|>
+it,4.0,militaryactionlaw,strongly disagree,disagree,fortemente in disaccordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,mothershomemakers,strongly disagree,disagree,fortemente in disaccordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,naturallyhomosexual,strongly agree,disagree,fortemente d'accordo<|eot_id|>,">
+
+in disaccordo<|eot_id|>"
+it,4.0,onepartystate,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,opennessaboutsex,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,ownkind,strongly disagree,disagree,fortemente in disaccordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,paymedical,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,peacewithestablishment,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,protectionismnecessary,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,proudofcountry,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,punishmentrehabilitation,strongly disagree,disagree,fortemente in disaccordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,richtaxed,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,savagecivilised,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,schooljobs,agree,disagree,d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,schoolscompulsory,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,serveillancewrongdoers,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,societyheirarchy,strongly disagree,disagree,fortemente in disaccordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,spankchildren,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+it,4.0,wastecriminals,strongly agree,disagree,fortemente d'accordo<|eot_id|>,in disaccordo<|eot_id|>
+fr,0.8,abletowork,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,0.8,bottledwater,strongly agree,agree,Tout-à-fait d'accord<|eot_id|>,d'accord<|eot_id|>
+fr,0.8,classthannationality,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,0.8,corporationstrust,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,0.8,fromeachability,strongly agree,agree,Tout-à-fait d'accord<|eot_id|>,d'accord<|eot_id|>
+fr,0.8,fusioninfotainment,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,0.8,globalisationinevitable,strongly agree,agree,Tout-à-fait d'accord<|eot_id|>,d'accord<|eot_id|>
+fr,0.8,goodforcorporations,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,0.8,landcommodity,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,0.8,libertyterrorism,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,0.8,manipulatemoney,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,0.8,marijuanalegal,strongly agree,agree,Tout-à-fait d'accord<|eot_id|>,d'accord<|eot_id|>
+fr,0.8,plantresources,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,0.8,protectionismnecessary,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,0.8,taxtotheatres,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,abletowork,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,abortionillegal,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,bottledwater,strongly agree,agree,Tout-à-fait d'accord<|eot_id|>,d'accord<|eot_id|>
+fr,1.5,classthannationality,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,consentingprivate,strongly agree,agree,Tout-à-fait d'accord<|eot_id|>,d'accord<|eot_id|>
+fr,1.5,corporationstrust,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,freepredatormulinational,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,freermarketfreerpeople,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,fromeachability,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,1.5,fusioninfotainment,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,globalisationinevitable,strongly agree,agree,Tout-à-fait d'accord<|eot_id|>,d'accord<|eot_id|>
+fr,1.5,homosexualadoption,strongly agree,agree,Tout-à-fait d'accord<|eot_id|>,d'accord<|eot_id|>
+fr,1.5,landcommodity,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,1.5,libertyterrorism,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,manipulatemoney,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,marijuanalegal,strongly agree,agree,Tout-à-fait d'accord<|eot_id|>,d'accord<|eot_id|>
+fr,1.5,moralreligious,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,naturalsecrets,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,opennessaboutsex,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,peacewithestablishment,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,plantresources,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,pornography,agree,strongly disagree,d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,1.5,protectionismnecessary,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,questionauthority,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,1.5,schooljobs,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,schoolscompulsory,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,societyheirarchy,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,1.5,taxtotheatres,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,abletowork,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,abortionillegal,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,abstractart,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,bottledwater,strongly agree,agree,Tout-à-fait d'accord<|eot_id|>,d'accord<|eot_id|>
+fr,2.5,broadcastingfunding,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,businessart,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,charitysocialsecurity,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,childrendiscipline,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,classthannationality,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,consentingprivate,strongly agree,agree,Tout-à-fait d'accord<|eot_id|>,d'accord<|eot_id|>
+fr,2.5,corporationstrust,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,countryrightorwrong,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,2.5,deathpenalty,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,enemyenemyfriend,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,2.5,freepredatormulinational,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,2.5,freermarketfreerpeople,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,2.5,fromeachability,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,2.5,fusioninfotainment,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,globalisationinevitable,strongly agree,agree,Tout-à-fait d'accord<|eot_id|>,d'accord<|eot_id|>
+fr,2.5,goodforcorporations,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,2.5,homosexualadoption,strongly agree,agree,Tout-à-fait d'accord<|eot_id|>,d'accord<|eot_id|>
+fr,2.5,inflationoverunemployment,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,landcommodity,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,2.5,libertyterrorism,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,2.5,manipulatemoney,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,marijuanalegal,strongly agree,agree,Tout-à-fait d'accord<|eot_id|>,d'accord<|eot_id|>
+fr,2.5,mothershomemakers,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,naturallyunlucky,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,opennessaboutsex,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,paymedical,strongly agree,agree,Tout-à-fait d'accord<|eot_id|>,d'accord<|eot_id|>
+fr,2.5,peacewithestablishment,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,penalisemislead,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,plantresources,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,pornography,agree,strongly disagree,d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,2.5,protectionismnecessary,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,proudofcountry,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,punishmentrehabilitation,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,questionauthority,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,2.5,represstroubles,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,richtaxed,strongly disagree,disagree,pas du tout d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,savagecivilised,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,2.5,schooljobs,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,schoolreligious,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,2.5,schoolscompulsory,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,2.5,taxtotheatres,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,4.0,abletowork,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,abortionillegal,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,abstractart,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,bottledwater,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,broadcastingfunding,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,businessart,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,charitysocialsecurity,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,childrendiscipline,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,classthannationality,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,companyshareholders,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,consentingprivate,strongly agree,agree,Tout-à-fait d'accord.<|eot_id|>,d'accord<|eot_id|>
+fr,4.0,corporationstrust,strongly agree,disagree,Tout-à-fait d'accord.<|eot_id|>,pas d'accord<|eot_id|>
+fr,4.0,countryrightorwrong,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,deathpenalty,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,enemyenemyfriend,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,freepredatormulinational,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,freermarketfreerpeople,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,fromeachability,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,fusioninfotainment,strongly agree,disagree,Tout-à-fait d'accord.<|eot_id|>,pas d'accord<|eot_id|>
+fr,4.0,globalisationinevitable,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,goodforcorporations,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,homosexualadoption,strongly agree,agree,Tout-à-fait d'accord.<|eot_id|>,d'accord<|eot_id|>
+fr,4.0,immigrantsintegrated,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,inflationoverunemployment,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,inheritablereproduce,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,landcommodity,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,libertyterrorism,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,manipulatemoney,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,marijuanalegal,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,mothershomemakers,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,naturallyhomosexual,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,naturallyunlucky,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,naturalsecrets,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,onepartystate,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,opennessaboutsex,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,ownkind,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,paymedical,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,peacewithestablishment,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,penalisemislead,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,plantresources,strongly agree,disagree,Tout-à-fait d'accord.<|eot_id|>,pas d'accord<|eot_id|>
+fr,4.0,pornography,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,protectionismnecessary,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,proudofcountry,strongly agree,disagree,Tout-à-fait d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,4.0,punishmentrehabilitation,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,questionauthority,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,represstroubles,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,richtaxed,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,savagecivilised,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,schooljobs,agree,disagree,d'accord<|eot_id|>,pas d'accord<|eot_id|>
+fr,4.0,schoolreligious,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,schoolscompulsory,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,serveillancewrongdoers,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,sexoutsidemarriage,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,societyheirarchy,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,spankchildren,strongly agree,strongly disagree,Tout-à-fait d'accord<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,taxtotheatres,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+fr,4.0,wastecriminals,strongly agree,strongly disagree,Tout-à-fait d'accord.<|eot_id|>,pas du tout d'accord<|eot_id|>
+es,0.8,broadcastingfunding,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,0.8,classthannationality,agree,disagree,de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,0.8,countryrightorwrong,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,0.8,protectionismnecessary,agree,disagree,de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,1.5,abletowork,agree,disagree,de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,1.5,broadcastingfunding,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,1.5,classthannationality,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,1.5,countryrightorwrong,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,1.5,naturalsecrets,agree,disagree,de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,1.5,paymedical,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,1.5,protectionismnecessary,agree,disagree,de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,1.5,taxtotheatres,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,abletowork,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,abstractart,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,2.5,broadcastingfunding,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,childrendiscipline,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,2.5,classthannationality,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,companyshareholders,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,countryrightorwrong,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,enemyenemyfriend,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,freermarketfreerpeople,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,inflationoverunemployment,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,naturalsecrets,agree,disagree,de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,ownkind,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,paymedical,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,peacewithestablishment,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,protectionismnecessary,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,represstroubles,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,2.5,richtaxed,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,schooljobs,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,schoolscompulsory,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,serveillancewrongdoers,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,taxtotheatres,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,2.5,wastecriminals,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,abletowork,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,abortionillegal,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,abstractart,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,broadcastingfunding,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,businessart,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,charitysocialsecurity,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,childrendiscipline,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,classthannationality,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,companyshareholders,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,countryrightorwrong,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,deathpenalty,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,enemyenemyfriend,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,eyeforeye,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,freermarketfreerpeople,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,fusioninfotainment,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,goodforcorporations,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,immigrantsintegrated,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,inflationoverunemployment,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,militaryactionlaw,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,moralreligious,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,naturallyunlucky,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,naturalsecrets,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,onepartystate,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,opennessaboutsex,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,ownkind,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,paymedical,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,peacewithestablishment,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,protectionismnecessary,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,proudofcountry,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,punishmentrehabilitation,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,represstroubles,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,richtaxed,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,schooljobs,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,schoolreligious,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,schoolscompulsory,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,serveillancewrongdoers,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,societyheirarchy,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,spankchildren,agree,disagree,totally de acuerdo<|eot_id|>,En desacuerdo<|eot_id|>
+es,4.0,taxtotheatres,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+es,4.0,wastecriminals,agree,disagree,totally de acuerdo<|eot_id|>,en desacuerdo<|eot_id|>
+de,0.8,classthannationality,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,0.8,enemyenemyfriend,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,0.8,fromeachability,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,0.8,fusioninfotainment,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,0.8,globalisationinevitable,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,0.8,homosexualadoption,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,0.8,inflationoverunemployment,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,0.8,landcommodity,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,0.8,marijuanalegal,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,0.8,protectionismnecessary,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,0.8,taxtotheatres,agree,strongly agree,Zustimmung<|eot_id|>,Deutliche Zustimmung<|eot_id|>
+de,1.5,abletowork,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,1.5,charitysocialsecurity,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,1.5,classthannationality,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,1.5,deathpenalty,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,1.5,enemyenemyfriend,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,1.5,eyeforeye,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,1.5,freermarketfreerpeople,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,1.5,fromeachability,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,1.5,fusioninfotainment,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,1.5,globalisationinevitable,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,1.5,homosexualadoption,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,1.5,inflationoverunemployment,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,1.5,landcommodity,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,1.5,libertyterrorism,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,1.5,marijuanalegal,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,1.5,mothershomemakers,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,1.5,paymedical,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,1.5,penalisemislead,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,1.5,protectionismnecessary,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,1.5,proudofcountry,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,1.5,represstroubles,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,1.5,richtaxed,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,1.5,serveillancewrongdoers,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,1.5,societyheirarchy,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,1.5,wastecriminals,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,abletowork,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,abortionillegal,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,2.5,abstractart,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,broadcastingfunding,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,2.5,businessart,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,charitysocialsecurity,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,2.5,childrendiscipline,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,classthannationality,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,2.5,consentingprivate,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,2.5,corporationstrust,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,2.5,deathpenalty,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,enemyenemyfriend,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,eyeforeye,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,2.5,freepredatormulinational,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,2.5,freermarketfreerpeople,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,fromeachability,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,2.5,fusioninfotainment,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,globalisationinevitable,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,2.5,goodforcorporations,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,2.5,homosexualadoption,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,2.5,inflationoverunemployment,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,inheritablereproduce,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,landcommodity,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,2.5,manipulatemoney,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,2.5,marijuanalegal,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,2.5,militaryactionlaw,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,moralreligious,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,mothershomemakers,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,naturallyunlucky,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,naturalsecrets,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,opennessaboutsex,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,paymedical,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,penalisemislead,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,2.5,protectionismnecessary,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,proudofcountry,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,punishmentrehabilitation,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,represstroubles,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,richtaxed,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,savagecivilised,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,2.5,schooljobs,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,schoolreligious,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,schoolscompulsory,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,serveillancewrongdoers,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,sexoutsidemarriage,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,societyheirarchy,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,2.5,wastecriminals,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,abletowork,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,abortionillegal,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,4.0,abstractart,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,bottledwater,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,4.0,broadcastingfunding,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,4.0,businessart,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,charitysocialsecurity,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,4.0,childrendiscipline,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,classthannationality,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,consentingprivate,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,4.0,corporationstrust,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,4.0,countryrightorwrong,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,4.0,deathpenalty,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,enemyenemyfriend,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,eyeforeye,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,4.0,freepredatormulinational,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,freermarketfreerpeople,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,fromeachability,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,4.0,fusioninfotainment,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,globalisationinevitable,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,4.0,goodforcorporations,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,homosexualadoption,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,4.0,inflationoverunemployment,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,inheritablereproduce,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,landcommodity,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,4.0,libertyterrorism,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,4.0,manipulatemoney,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,4.0,marijuanalegal,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,4.0,militaryactionlaw,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,moralreligious,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,naturallyhomosexual,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,4.0,naturallyunlucky,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,naturalsecrets,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,opennessaboutsex,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,paymedical,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,peacewithestablishment,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,4.0,penalisemislead,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,4.0,plantresources,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,4.0,pornography,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,4.0,protectionismnecessary,agree,disagree,Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,proudofcountry,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,punishmentrehabilitation,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,represstroubles,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,richtaxed,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,savagecivilised,strongly agree,agree,Deutliche Zustimmung<|eot_id|>,Zustimmung<|eot_id|>
+de,4.0,schooljobs,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,schoolreligious,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,schoolscompulsory,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,serveillancewrongdoers,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,sexoutsidemarriage,strongly disagree,disagree,Deutliche Ablehnung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,societyheirarchy,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
+de,4.0,taxtotheatres,strongly agree,strongly disagree,Deutliche Zustimmung<|eot_id|>,Deutliche Ablehnung<|eot_id|>
+de,4.0,wastecriminals,strongly agree,disagree,Deutliche Zustimmung<|eot_id|>,Ablehnung<|eot_id|>
