@@ -354,11 +354,17 @@ def run_detection(model, tokenizer, paired_rows, side, output_dir, args, logger)
 # STEERING
 # ===========================================================================
 
-def run_steering(model, tokenizer, side, output_dir, args, logger):
-    """Steer model on Political Compass using detected directions from ALL layers."""
-    steer_dir = output_dir / f"steering_{side}"
+def run_steering(model, tokenizer, side, output_dir, args, logger, steering_mode="best"):
+    """Steer model on Political Compass.
+
+    steering_mode:
+        "best" — steer only at the best detection layer
+        "all"  — steer at all layers simultaneously
+    """
+    suffix = "" if steering_mode == "best" else "_alllayers"
+    steer_dir = output_dir / f"steering_{side}{suffix}"
     if (steer_dir / "global_summary.json").exists():
-        logger.info(f"[SKIP] steering_{side} already done")
+        logger.info(f"[SKIP] steering_{side}{suffix} already done")
         return
 
     steer_dir.mkdir(parents=True, exist_ok=True)
@@ -376,6 +382,10 @@ def run_steering(model, tokenizer, side, output_dir, args, logger):
 
     summary = json.loads((det_dir / "summary.json").read_text())
     best_layer = int(summary["best_layer_on_val"])
+    all_layers = list(controller.directions.keys())
+
+    mode_label = f"best (layer {best_layer})" if steering_mode == "best" else f"all ({len(all_layers)} layers)"
+    logger.info(f"[{side}] Steering mode: {mode_label}")
 
     all_scores = {}
     for lang in args.languages:
@@ -391,9 +401,14 @@ def run_steering(model, tokenizer, side, output_dir, args, logger):
 
         for coef in args.coefs:
             label = f"coef_{int(coef) if float(coef).is_integer() else coef}"
-            logger.info(f"[{side}][{lang}] coef={coef} layer={best_layer}")
+            logger.info(f"[{side}][{lang}] coef={coef} mode={steering_mode}")
 
-            layers = [best_layer] if coef != 0.0 else []
+            if coef == 0.0:
+                layers = []
+            elif steering_mode == "all":
+                layers = all_layers
+            else:
+                layers = [best_layer]
             results = []
             for item in items:
                 prompt_text = build_compass_prompt(item["statement"], language=lang)
@@ -458,7 +473,10 @@ def run_steering(model, tokenizer, side, output_dir, args, logger):
 
     global_summary = {
         "model": args.model, "positive_ideology": side,
-        "best_layer": best_layer, "coefs": args.coefs,
+        "steering_mode": steering_mode,
+        "best_layer": best_layer,
+        "steering_layers": [best_layer] if steering_mode == "best" else all_layers,
+        "coefs": args.coefs,
         "languages": args.languages, "scores": all_scores,
     }
     (steer_dir / "global_summary.json").write_text(json.dumps(global_summary, indent=2, ensure_ascii=False) + "\n")
@@ -523,7 +541,11 @@ def main():
     # Run pipeline for both sides
     for side in ("left", "right"):
         run_detection(model, tokenizer, paired_rows, side, args.output_dir, args, logger)
-        run_steering(model, tokenizer, side, args.output_dir, args, logger)
+
+    # Steering: best-layer and all-layers
+    for mode in ("best", "all"):
+        for side in ("left", "right"):
+            run_steering(model, tokenizer, side, args.output_dir, args, logger, steering_mode=mode)
 
     logger.info("Done! Results in: %s", args.output_dir)
 

@@ -70,15 +70,23 @@ outputs/my_experiment/
 │   └── detector_coefs.pkl    # ALL layer detector coefficients
 ├── detection_right/
 │   └── (same)
-├── steering_left/
+├── steering_left/              # Best-layer steering
 │   ├── global_summary.json
 │   └── en/
 │       ├── compass_answers_coef_0.csv
 │       ├── compass_answers_coef_0.8.csv
 │       └── compass_summary.json
-└── steering_right/
-    └── (same)
+├── steering_right/             # Best-layer steering
+│   └── (same)
+├── steering_left_alllayers/    # All-layers steering
+│   └── (same structure)
+└── steering_right_alllayers/   # All-layers steering
+    └── (same structure)
 ```
+
+The pipeline automatically runs both steering modes:
+- **Best-layer**: inject direction at the single best detection layer
+- **All-layers**: inject direction at every layer simultaneously
 
 ## Device Compatibility
 
