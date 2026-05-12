@@ -115,7 +115,7 @@ The script auto-detects your device and patches the library accordingly.
 
 - `torch >= 2.0`
 - `transformers >= 4.30`
-- `xrfm >= 0.1` (RFM probe, pip installable)
+- RFM/xRFM is bundled in `lib/xrfm` (do not install PyPI `xrfm`)
 - `scikit-learn >= 1.0`
 - `tqdm`
 - `numpy`

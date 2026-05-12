@@ -1,5 +1,5 @@
 import torch
-from xrfm.rfm_src import RFM, matrix_power
+from .rfm_src import RFM, matrix_power
 from torchmetrics.functional.classification import accuracy
 from sklearn.metrics import roc_auc_score
 from tqdm import tqdm

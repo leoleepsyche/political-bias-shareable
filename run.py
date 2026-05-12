@@ -8,7 +8,8 @@ Usage:
                   --output-dir outputs/my_experiment
 
 Requirements:
-    pip install torch transformers xrfm scikit-learn tqdm numpy
+    pip install -r requirements.txt
+    (RFM/xRFM code is bundled under lib/xrfm.)
 
 This script runs the full pipeline:
   1. Load model & ideology dataset
@@ -401,19 +402,24 @@ def run_steering(model, tokenizer, side, output_dir, args, logger, steering_mode
 
         for coef in args.coefs:
             label = f"coef_{int(coef) if float(coef).is_integer() else coef}"
-            logger.info(f"[{side}][{lang}] coef={coef} mode={steering_mode}")
+            logger.info(f"[{side}][{lang}] coef={coef} mode={steering_mode}"
+                        + (f" (effective_coef={coef / len(all_layers):.4f})" if steering_mode == "all" and coef != 0.0 else ""))
 
             if coef == 0.0:
                 layers = []
+                effective_coef = 0.0
             elif steering_mode == "all":
                 layers = all_layers
+                # Scale coef by layer count so total signal ≈ best-layer strength
+                effective_coef = coef / len(all_layers)
             else:
                 layers = [best_layer]
+                effective_coef = coef
             results = []
             for item in items:
                 prompt_text = build_compass_prompt(item["statement"], language=lang)
                 formatted = controller.format_prompt(prompt_text, steer=True)
-                raw = controller.generate(formatted, layers_to_control=layers, control_coef=coef,
+                raw = controller.generate(formatted, layers_to_control=layers, control_coef=effective_coef,
                                           max_new_tokens=30, do_sample=False)
                 answer = raw[len(formatted):].strip() if raw.startswith(formatted) else raw.strip()
                 choice = parse_choice(answer, language=lang)
@@ -422,7 +428,7 @@ def run_steering(model, tokenizer, side, output_dir, args, logger, steering_mode
                 if choice is None:
                     repair = build_repair_prompt(item["statement"], answer, language=lang)
                     repair_fmt = controller.format_prompt(repair, steer=True)
-                    raw2 = controller.generate(repair_fmt, layers_to_control=layers, control_coef=coef,
+                    raw2 = controller.generate(repair_fmt, layers_to_control=layers, control_coef=effective_coef,
                                               max_new_tokens=30, do_sample=False)
                     ans2 = raw2[len(repair_fmt):].strip() if raw2.startswith(repair_fmt) else raw2.strip()
                     choice = parse_choice(ans2, language=lang)
