@@ -10,8 +10,8 @@ pip install -r requirements.txt
 
 # 2. Run full pipeline (auto-detects GPU/MPS/CPU)
 python run.py \
-  --model mistralai/Mistral-7B-Instruct-v0.3 \
-  --input-csv data/ideology_all.csv \
+  --model mistralai/Mistral-7B-Instruct-v0.2 \
+  --input-csv data/ideoinst_clean/ideology_840_opinion.csv \
   --output-dir outputs/mistral_experiment
 ```
 
@@ -35,7 +35,7 @@ step1_dataset.py                    # Dataset loading & pairing
 political_compass.py                # English compass parsing
 political_compass_multilingual.py   # Multilingual compass (en/it/fr/es/de)
 data/
-  ideology_all.csv                  # Paired left/right ideology texts
+  ideoinst_clean/ideology_840_opinion.csv  # 840 paired left/right ideology texts
   political_compass_*.json          # Compass questionnaires (5 languages)
 ```
 
@@ -108,6 +108,7 @@ The script auto-detects your device and patches the library accordingly.
 ## Models Tested
 
 - `mistralai/Mistral-7B-Instruct-v0.3`
+- `mistralai/Mistral-7B-Instruct-v0.2`
 - `Qwen/Qwen2.5-7B-Instruct`
 - `meta-llama/Meta-Llama-3-8B-Instruct`
 

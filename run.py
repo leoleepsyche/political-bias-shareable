@@ -3,8 +3,8 @@
 Political Bias Detection & Activation Steering — Minimal Reproducible Pipeline
 
 Usage:
-    python run.py --model mistralai/Mistral-7B-Instruct-v0.3 \
-                  --input-csv data/ideology_all.csv \
+    python run.py --model mistralai/Mistral-7B-Instruct-v0.2 \
+                  --input-csv data/ideoinst_clean/ideology_840_opinion.csv \
                   --output-dir outputs/my_experiment
 
 Requirements:
